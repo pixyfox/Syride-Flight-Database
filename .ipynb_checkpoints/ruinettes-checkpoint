@@ -1,0 +1,6741 @@
+,distance,plafond,duration,date
+0,"4
+Kilometers","2183
+meters",00:08:04s,"14/01/2022
+15h 16h"
+1,"15
+Kilometers","2367
+meters",01:23:01s,"14/01/2022
+14h 15h"
+2,"4
+Kilometers","2180
+meters",00:08:38s,"14/01/2022
+14h 14h"
+3,"3
+Kilometers","2090
+meters",00:07:31s,"14/01/2022
+13h 13h"
+4,"6
+Kilometers","2177
+meters",00:18:48s,"06/01/2022
+16h 17h"
+5,"4
+Kilometers","2172
+meters",00:18:15s,"06/01/2022
+16h 16h"
+6,"8
+Kilometers","2276
+meters",00:38:01s,"06/01/2022
+15h 15h"
+7,"4
+Kilometers","2167
+meters",00:15:25s,"06/01/2022
+14h 14h"
+8,"5
+Kilometers","2144
+meters",00:17:07s,"06/01/2022
+14h 14h"
+9,"4
+Kilometers","2181
+meters",00:16:33s,"06/01/2022
+12h 12h"
+10,"4
+Kilometers","2179
+meters",00:17:07s,"02/01/2022
+13h 13h"
+11,"6
+Kilometers","2358
+meters",00:30:40s,"01/01/2022
+13h 14h"
+12,"4
+Kilometers","2175
+meters",00:20:30s,"30/12/2021
+14h 15h"
+13,"8
+Kilometers","2180
+meters",00:18:13s,"23/12/2021
+14h 14h"
+14,"6
+Kilometers","2180
+meters",00:26:17s,"22/12/2021
+15h 15h"
+15,"6
+Kilometers","2171
+meters",00:25:37s,"18/12/2021
+15h 15h"
+16,"1
+Kilometers","2339
+meters",00:26:09s,"18/12/2021
+14h 14h"
+17,"4
+Kilometers","2180
+meters",00:15:25s,"15/12/2021
+13h 13h"
+18,"4
+Kilometers","2174
+meters",00:11:13s,"15/12/2021
+11h 11h"
+19,"4
+Kilometers","2182
+meters",00:18:29s,"14/12/2021
+12h 12h"
+0,"3
+Kilometers","2162
+meters",00:09:12s,"21/11/2021
+15h 16h"
+1,"3
+Kilometers","2167
+meters",00:05:15s,"21/11/2021
+15h 15h"
+2,"3
+Kilometers","2158
+meters",00:12:02s,"21/11/2021
+14h 14h"
+3,"2
+Kilometers","2477
+meters",00:25:37s,"21/11/2021
+14h 14h"
+4,"8
+Kilometers","2160
+meters",00:34:38s,"21/11/2021
+14h 14h"
+5,"4
+Kilometers","2147
+meters",00:16:50s,"21/11/2021
+12h 13h"
+6,"4
+Kilometers","2153
+meters",00:09:46s,"21/11/2021
+12h 12h"
+7,"7
+Kilometers","2318
+meters",00:30:29s,"20/11/2021
+15h 15h"
+8,"5
+Kilometers","2166
+meters",00:24:28s,"20/11/2021
+15h 15h"
+9,"5
+Kilometers","2158
+meters",00:26:43s,"20/11/2021
+14h 15h"
+10,"2
+Kilometers","2364
+meters",00:35:26s,"20/11/2021
+14h 15h"
+11,"1
+Kilometers","2345
+meters",00:18:47s,"20/11/2021
+14h 14h"
+12,"3
+Kilometers","2078
+meters",00:13:10s,"20/11/2021
+13h 13h"
+13,"6
+Kilometers","2164
+meters",00:18:48s,"20/11/2021
+12h 12h"
+14,"6
+Kilometers","2161
+meters",00:18:15s,"20/11/2021
+12h 12h"
+15,"3
+Kilometers","2157
+meters",00:12:37s,"20/11/2021
+12h 12h"
+16,"0
+Kilometers","2171
+meters",00:05:49s,"20/11/2021
+12h 12h"
+17,"5
+Kilometers","2167
+meters",00:16:33s,"20/11/2021
+11h 12h"
+18,"0
+Kilometers","2178
+meters",00:08:38s,"20/11/2021
+11h 11h"
+19,"4
+Kilometers","2168
+meters",00:20:19s,"12/11/2021
+14h 15h"
+0,"3
+Kilometers","2162
+meters",00:09:12s,"21/11/2021
+15h 16h"
+1,"3
+Kilometers","2167
+meters",00:05:15s,"21/11/2021
+15h 15h"
+2,"3
+Kilometers","2158
+meters",00:12:02s,"21/11/2021
+14h 14h"
+3,"2
+Kilometers","2477
+meters",00:25:37s,"21/11/2021
+14h 14h"
+4,"8
+Kilometers","2160
+meters",00:34:38s,"21/11/2021
+14h 14h"
+5,"4
+Kilometers","2147
+meters",00:16:50s,"21/11/2021
+12h 13h"
+6,"4
+Kilometers","2153
+meters",00:09:46s,"21/11/2021
+12h 12h"
+7,"7
+Kilometers","2318
+meters",00:30:29s,"20/11/2021
+15h 15h"
+8,"5
+Kilometers","2166
+meters",00:24:28s,"20/11/2021
+15h 15h"
+9,"5
+Kilometers","2158
+meters",00:26:43s,"20/11/2021
+14h 15h"
+10,"2
+Kilometers","2364
+meters",00:35:26s,"20/11/2021
+14h 15h"
+11,"1
+Kilometers","2345
+meters",00:18:47s,"20/11/2021
+14h 14h"
+12,"3
+Kilometers","2078
+meters",00:13:10s,"20/11/2021
+13h 13h"
+13,"6
+Kilometers","2164
+meters",00:18:48s,"20/11/2021
+12h 12h"
+14,"6
+Kilometers","2161
+meters",00:18:15s,"20/11/2021
+12h 12h"
+15,"3
+Kilometers","2157
+meters",00:12:37s,"20/11/2021
+12h 12h"
+16,"0
+Kilometers","2171
+meters",00:05:49s,"20/11/2021
+12h 12h"
+17,"5
+Kilometers","2167
+meters",00:16:33s,"20/11/2021
+11h 12h"
+18,"0
+Kilometers","2178
+meters",00:08:38s,"20/11/2021
+11h 11h"
+19,"4
+Kilometers","2168
+meters",00:20:19s,"12/11/2021
+14h 15h"
+0,"7
+Kilometers","2208
+meters",00:21:38s,"12/11/2021
+14h 15h"
+1,"5
+Kilometers","2180
+meters",00:21:38s,"08/11/2021
+12h 13h"
+2,"5
+Kilometers","2170
+meters",00:22:46s,"08/11/2021
+12h 13h"
+3,"5
+Kilometers","2168
+meters",00:27:29s,"24/10/2021
+16h 16h"
+4,"13
+Kilometers","2306
+meters",00:50:20s,"24/10/2021
+15h 16h"
+5,"9
+Kilometers","2252
+meters",01:10:14s,"24/10/2021
+15h 16h"
+6,"7
+Kilometers","2167
+meters",00:25:14s,"24/10/2021
+15h 16h"
+7,"7
+Kilometers","2157
+meters",00:27:51s,"24/10/2021
+15h 16h"
+8,"4
+Kilometers","2308
+meters",00:19:23s,"24/10/2021
+14h 15h"
+9,"6
+Kilometers","2165
+meters",00:28:05s,"24/10/2021
+13h 13h"
+10,"5
+Kilometers","2158
+meters",00:22:12s,"24/10/2021
+13h 13h"
+11,"5
+Kilometers","2167
+meters",00:26:26s,"24/10/2021
+13h 13h"
+12,"5
+Kilometers","2243
+meters",00:48:16s,"24/10/2021
+12h 13h"
+13,"6
+Kilometers","2167
+meters",00:16:46s,"24/10/2021
+11h 12h"
+14,"6
+Kilometers","2164
+meters",00:15:59s,"24/10/2021
+11h 12h"
+15,"5
+Kilometers","2162
+meters",00:16:37s,"24/10/2021
+11h 11h"
+16,"7
+Kilometers","2121
+meters",00:43:49s,"23/10/2021
+16h 17h"
+17,"6
+Kilometers","2167
+meters",00:35:12s,"23/10/2021
+15h 16h"
+18,"6
+Kilometers","2154
+meters",00:35:46s,"23/10/2021
+15h 16h"
+19,"12
+Kilometers","2271
+meters",01:17:40s,"23/10/2021
+14h 16h"
+0,"14
+Kilometers","2322
+meters",01:19:35s,"23/10/2021
+15h 16h"
+1,"8
+Kilometers","2155
+meters",00:32:12s,"23/10/2021
+15h 16h"
+2,"0
+Kilometers","2249
+meters",00:00:19s,"23/10/2021
+14h 14h"
+3,"14
+Kilometers","2163
+meters",00:44:21s,"23/10/2021
+13h 14h"
+4,"5
+Kilometers","2168
+meters",00:26:29s,"23/10/2021
+13h 13h"
+5,"10
+Kilometers","1991
+meters",00:46:23s,"23/10/2021
+12h 13h"
+6,"7
+Kilometers","2164
+meters",00:48:35s,"23/10/2021
+13h 14h"
+7,"6
+Kilometers","2196
+meters",00:37:28s,"23/10/2021
+13h 13h"
+8,"6
+Kilometers","2169
+meters",00:38:56s,"23/10/2021
+13h 13h"
+9,"14
+Kilometers","2165
+meters",00:54:27s,"23/10/2021
+13h 14h"
+10,"5
+Kilometers","2161
+meters",00:41:25s,"23/10/2021
+12h 13h"
+11,"6
+Kilometers","2166
+meters",01:00:38s,"23/10/2021
+12h 13h"
+12,"8
+Kilometers","2169
+meters",00:29:33s,"17/10/2021
+15h 16h"
+13,"7
+Kilometers","2161
+meters",00:21:04s,"17/10/2021
+15h 15h"
+14,"5
+Kilometers","2160
+meters",00:17:07s,"17/10/2021
+15h 15h"
+15,"4
+Kilometers","2162
+meters",00:16:30s,"17/10/2021
+15h 15h"
+16,"8
+Kilometers","2170
+meters",00:21:04s,"17/10/2021
+14h 14h"
+17,"4
+Kilometers","2304
+meters",00:27:51s,"17/10/2021
+12h 13h"
+18,"8
+Kilometers","2323
+meters",00:29:51s,"17/10/2021
+13h 13h"
+19,"6
+Kilometers","2164
+meters",00:21:38s,"17/10/2021
+11h 12h"
+0,"4
+Kilometers","2168
+meters",00:17:11s,"17/10/2021
+11h 11h"
+1,"11
+Kilometers","2201
+meters",00:39:09s,"16/10/2021
+16h 16h"
+2,"9
+Kilometers","2742
+meters",01:05:43s,"16/10/2021
+14h 15h"
+3,"11
+Kilometers","2522
+meters",00:38:01s,"16/10/2021
+15h 15h"
+4,"23
+Kilometers","3101
+meters",01:39:03s,"16/10/2021
+14h 16h"
+5,"6
+Kilometers","2174
+meters",00:39:43s,"16/10/2021
+14h 15h"
+6,"1
+Kilometers","2209
+meters",00:04:07s,"16/10/2021
+14h 14h"
+7,"9
+Kilometers","2571
+meters",00:34:01s,"16/10/2021
+13h 14h"
+8,"14
+Kilometers","2922
+meters",00:55:25s,"16/10/2021
+14h 15h"
+9,"10
+Kilometers","2604
+meters",00:59:30s,"16/10/2021
+13h 14h"
+10,"11
+Kilometers","2609
+meters",00:44:48s,"16/10/2021
+13h 14h"
+11,"5
+Kilometers","2158
+meters",00:21:04s,"16/10/2021
+13h 13h"
+12,"19
+Kilometers","3330
+meters",02:30:30s,"16/10/2021
+13h 15h"
+13,"7
+Kilometers","2348
+meters",00:31:48s,"16/10/2021
+12h 13h"
+14,"46
+Kilometers","3489
+meters",03:57:30s,"16/10/2021
+12h 16h"
+15,"38
+Kilometers","3524
+meters",03:09:27s,"16/10/2021
+12h 15h"
+16,"5
+Kilometers","2423
+meters",00:31:15s,"16/10/2021
+12h 13h"
+17,"38
+Kilometers","3533
+meters",03:13:03s,"16/10/2021
+12h 15h"
+18,"19
+Kilometers","3028
+meters",02:11:45s,"16/10/2021
+12h 14h"
+19,"19
+Kilometers","2539
+meters",02:17:29s,"16/10/2021
+12h 14h"
+0,"5
+Kilometers","2210
+meters",00:37:12s,"16/10/2021
+11h 11h"
+1,"27
+Kilometers","2697
+meters",01:57:15s,"16/10/2021
+12h 14h"
+2,"34
+Kilometers","2628
+meters",02:20:39s,"16/10/2021
+12h 14h"
+3,"7
+Kilometers","2165
+meters",00:24:10s,"16/10/2021
+11h 12h"
+4,"8
+Kilometers","2323
+meters",00:40:17s,"16/10/2021
+11h 12h"
+5,"4
+Kilometers","2185
+meters",00:13:10s,"10/10/2021
+16h 16h"
+6,"6
+Kilometers","2158
+meters",00:22:46s,"10/10/2021
+15h 15h"
+7,"4
+Kilometers","2278
+meters",00:21:38s,"10/10/2021
+14h 15h"
+8,"9
+Kilometers","2599
+meters",00:51:55s,"10/10/2021
+14h 15h"
+9,"8
+Kilometers","2167
+meters",00:47:38s,"10/10/2021
+13h 14h"
+10,"4
+Kilometers","2165
+meters",00:12:02s,"10/10/2021
+13h 13h"
+11,"3
+Kilometers","2157
+meters",00:09:46s,"10/10/2021
+12h 12h"
+12,"7
+Kilometers","2157
+meters",00:22:46s,"10/10/2021
+12h 12h"
+13,"3
+Kilometers","2163
+meters",00:10:20s,"10/10/2021
+11h 11h"
+14,"3
+Kilometers","2259
+meters",00:10:54s,"10/10/2021
+10h 10h"
+15,"5
+Kilometers","2185
+meters",00:27:51s,"09/10/2021
+15h 16h"
+16,"4
+Kilometers","2162
+meters",00:24:28s,"09/10/2021
+15h 16h"
+17,"15
+Kilometers","2719
+meters",00:54:59s,"09/10/2021
+14h 15h"
+18,"15
+Kilometers","2572
+meters",00:41:59s,"09/10/2021
+13h 14h"
+19,"6
+Kilometers","2433
+meters",00:34:38s,"09/10/2021
+13h 14h"
+0,"7
+Kilometers","2462
+meters",00:33:30s,"09/10/2021
+13h 14h"
+1,"13
+Kilometers","2387
+meters",00:43:40s,"09/10/2021
+13h 13h"
+2,"4
+Kilometers","2167
+meters",00:15:25s,"08/10/2021
+11h 11h"
+3,"7
+Kilometers","2153
+meters",00:14:02s,"02/10/2021
+11h 11h"
+4,"5
+Kilometers","2179
+meters",00:24:11s,"01/10/2021
+17h 18h"
+5,"7
+Kilometers","2343
+meters",00:33:30s,"01/10/2021
+16h 16h"
+6,"3
+Kilometers","2044
+meters",00:09:12s,"25/09/2021
+14h 14h"
+7,"3
+Kilometers","2043
+meters",00:10:20s,"25/09/2021
+13h 13h"
+8,"7
+Kilometers","2272
+meters",00:21:38s,"25/09/2021
+12h 13h"
+9,"3
+Kilometers","2163
+meters",00:10:54s,"25/09/2021
+11h 11h"
+10,"3
+Kilometers","2164
+meters",00:10:20s,"25/09/2021
+10h 11h"
+11,"6
+Kilometers","2179
+meters",00:30:40s,"24/09/2021
+14h 14h"
+12,"14
+Kilometers","2402
+meters",00:49:53s,"23/09/2021
+14h 15h"
+13,"7
+Kilometers","2163
+meters",00:18:15s,"23/09/2021
+13h 13h"
+14,"7
+Kilometers","2153
+meters",00:18:48s,"23/09/2021
+13h 13h"
+15,"5
+Kilometers","2162
+meters",00:17:07s,"23/09/2021
+11h 12h"
+16,"5
+Kilometers","2163
+meters",00:16:33s,"23/09/2021
+11h 12h"
+17,"4
+Kilometers","2175
+meters",00:25:02s,"18/09/2021
+13h 14h"
+18,"4
+Kilometers","2212
+meters",00:23:20s,"18/09/2021
+14h 15h"
+19,"4
+Kilometers","2480
+meters",00:16:33s,"18/09/2021
+14h 15h"
+0,"10
+Kilometers","2432
+meters",00:31:15s,"18/09/2021
+13h 14h"
+1,"5
+Kilometers","2100
+meters",00:17:07s,"18/09/2021
+11h 12h"
+2,"4
+Kilometers","2174
+meters",00:17:07s,"17/09/2021
+16h 17h"
+3,"5
+Kilometers","2162
+meters",00:15:59s,"14/09/2021
+11h 12h"
+4,"5
+Kilometers","2161
+meters",00:15:25s,"14/09/2021
+10h 10h"
+5,"19
+Kilometers","2930
+meters",01:09:40s,"12/09/2021
+16h 17h"
+6,"4
+Kilometers","2573
+meters",00:16:33s,"12/09/2021
+14h 15h"
+7,"12
+Kilometers","2741
+meters",00:58:22s,"12/09/2021
+14h 15h"
+8,"10
+Kilometers","2851
+meters",01:32:59s,"12/09/2021
+14h 15h"
+9,"3
+Kilometers","2155
+meters",00:10:54s,"12/09/2021
+13h 13h"
+10,"10
+Kilometers","2598
+meters",00:39:42s,"12/09/2021
+13h 13h"
+11,"3
+Kilometers","2153
+meters",00:09:46s,"12/09/2021
+12h 12h"
+12,"3
+Kilometers","2267
+meters",00:08:38s,"11/09/2021
+16h 16h"
+13,"4
+Kilometers","2338
+meters",00:21:04s,"11/09/2021
+15h 15h"
+14,"4
+Kilometers","2366
+meters",00:15:59s,"11/09/2021
+13h 13h"
+15,"3
+Kilometers","2152
+meters",00:10:54s,"11/09/2021
+12h 13h"
+16,"6
+Kilometers","2161
+meters",00:15:25s,"10/09/2021
+14h 15h"
+17,"5
+Kilometers","2160
+meters",00:16:33s,"10/09/2021
+13h 13h"
+18,"4
+Kilometers","2281
+meters",00:17:41s,"09/09/2021
+14h 15h"
+19,"3
+Kilometers","2161
+meters",00:10:20s,"09/09/2021
+13h 13h"
+0,"4
+Kilometers","2155
+meters",00:12:37s,"09/09/2021
+12h 12h"
+1,"15
+Kilometers","2625
+meters",01:02:31s,"08/09/2021
+17h 18h"
+2,"4
+Kilometers","2235
+meters",00:11:31s,"08/09/2021
+14h 14h"
+3,"3
+Kilometers","2274
+meters",00:14:51s,"08/09/2021
+15h 15h"
+4,"6
+Kilometers","2708
+meters",00:36:29s,"08/09/2021
+14h 15h"
+5,"14
+Kilometers","3064
+meters",00:49:20s,"08/09/2021
+13h 14h"
+6,"6
+Kilometers","2737
+meters",00:29:21s,"08/09/2021
+11h 12h"
+7,"54
+Kilometers","2944
+meters",03:46:20s,"08/09/2021
+12h 16h"
+8,"22
+Kilometers","2697
+meters",01:23:48s,"08/09/2021
+12h 13h"
+9,"19
+Kilometers","2900
+meters",01:23:14s,"07/09/2021
+15h 16h"
+10,"16
+Kilometers","2509
+meters",01:23:03s,"07/09/2021
+15h 16h"
+11,"9
+Kilometers","2187
+meters",00:40:17s,"07/09/2021
+14h 14h"
+12,"7
+Kilometers","2165
+meters",00:41:23s,"07/09/2021
+12h 13h"
+13,"7
+Kilometers","2159
+meters",00:41:09s,"07/09/2021
+12h 13h"
+14,"9
+Kilometers","2508
+meters",00:31:15s,"07/09/2021
+12h 12h"
+15,"21
+Kilometers","2963
+meters",01:24:22s,"06/09/2021
+13h 14h"
+16,"16
+Kilometers","3179
+meters",01:32:17s,"06/09/2021
+12h 14h"
+17,"8
+Kilometers","2177
+meters",00:25:37s,"05/09/2021
+14h 15h"
+18,"11
+Kilometers","2860
+meters",00:56:49s,"05/09/2021
+13h 14h"
+19,"3
+Kilometers","2294
+meters",00:17:13s,"05/09/2021
+11h 12h"
+0,"2
+Kilometers","2292
+meters",00:21:33s,"05/09/2021
+11h 11h"
+1,"11
+Kilometers","2578
+meters",00:48:46s,"04/09/2021
+14h 15h"
+2,"4
+Kilometers","2169
+meters",00:23:20s,"04/09/2021
+13h 13h"
+3,"3
+Kilometers","2153
+meters",00:19:56s,"04/09/2021
+11h 11h"
+4,"10
+Kilometers","2351
+meters",00:26:43s,"02/09/2021
+12h 13h"
+5,"22
+Kilometers","2916
+meters",01:11:56s,"01/09/2021
+14h 15h"
+6,"72
+Kilometers","3960
+meters",04:03:10s,"01/09/2021
+13h 17h"
+7,"5
+Kilometers","2161
+meters",00:32:42s,"31/08/2021
+13h 13h"
+8,"7
+Kilometers","2166
+meters",00:14:30s,"31/08/2021
+11h 12h"
+9,"7
+Kilometers","2164
+meters",00:15:29s,"31/08/2021
+10h 10h"
+10,"9
+Kilometers","2325
+meters",01:03:27s,"30/08/2021
+13h 14h"
+11,"5
+Kilometers","2721
+meters",00:20:30s,"29/08/2021
+15h 16h"
+12,"5
+Kilometers","2311
+meters",00:22:58s,"29/08/2021
+15h 16h"
+13,"14
+Kilometers","2496
+meters",01:12:30s,"29/08/2021
+13h 14h"
+14,"8
+Kilometers","2542
+meters",01:13:04s,"29/08/2021
+13h 14h"
+15,"3
+Kilometers","2163
+meters",00:17:07s,"29/08/2021
+11h 12h"
+16,"3
+Kilometers","2158
+meters",00:21:38s,"29/08/2021
+11h 11h"
+17,"16
+Kilometers","2467
+meters",01:03:27s,"28/08/2021
+14h 15h"
+18,"15
+Kilometers","2732
+meters",00:38:01s,"28/08/2021
+14h 15h"
+19,"39
+Kilometers","2832
+meters",03:01:01s,"28/08/2021
+13h 16h"
+0,"12
+Kilometers","2189
+meters",00:40:51s,"28/08/2021
+12h 13h"
+1,"7
+Kilometers","2185
+meters",00:39:09s,"27/08/2021
+13h 14h"
+2,"6
+Kilometers","2129
+meters",00:12:56s,"27/08/2021
+12h 12h"
+3,"7
+Kilometers","2256
+meters",00:36:20s,"27/08/2021
+11h 12h"
+4,"24
+Kilometers","3206
+meters",01:27:11s,"26/08/2021
+14h 15h"
+5,"6
+Kilometers","2162
+meters",00:30:07s,"26/08/2021
+12h 12h"
+6,"12
+Kilometers","2877
+meters",00:47:50s,"25/08/2021
+15h 16h"
+7,"7
+Kilometers","2236
+meters",00:34:38s,"25/08/2021
+13h 14h"
+8,"7
+Kilometers","2160
+meters",00:27:51s,"25/08/2021
+12h 12h"
+9,"4
+Kilometers","2163
+meters",00:17:41s,"25/08/2021
+12h 12h"
+10,"3
+Kilometers","2161
+meters",00:14:51s,"25/08/2021
+11h 11h"
+11,"5
+Kilometers","2163
+meters",00:25:37s,"21/08/2021
+14h 15h"
+12,"5
+Kilometers","2219
+meters",00:33:30s,"21/08/2021
+14h 15h"
+13,"16
+Kilometers","2831
+meters",01:15:19s,"21/08/2021
+14h 15h"
+14,"40
+Kilometers","3459
+meters",03:02:08s,"21/08/2021
+13h 16h"
+15,"49
+Kilometers","3433
+meters",03:28:41s,"21/08/2021
+13h 16h"
+16,"17
+Kilometers","2879
+meters",01:30:01s,"21/08/2021
+13h 14h"
+17,"50
+Kilometers","3798
+meters",04:20:07s,"21/08/2021
+13h 17h"
+18,"8
+Kilometers","2266
+meters",00:32:22s,"21/08/2021
+11h 11h"
+19,"7
+Kilometers","2263
+meters",00:30:40s,"21/08/2021
+11h 11h"
+0,"6
+Kilometers","2111
+meters",00:17:07s,"21/08/2021
+10h 11h"
+1,"14
+Kilometers","2384
+meters",01:26:21s,"19/08/2021
+14h 16h"
+2,"5
+Kilometers","2186
+meters",00:18:54s,"19/08/2021
+13h 14h"
+3,"7
+Kilometers","2166
+meters",00:23:54s,"19/08/2021
+13h 13h"
+4,"5
+Kilometers","2174
+meters",00:16:52s,"19/08/2021
+11h 12h"
+5,"5
+Kilometers","2163
+meters",00:21:04s,"18/08/2021
+17h 17h"
+6,"10
+Kilometers","2226
+meters",00:46:26s,"18/08/2021
+15h 15h"
+7,"18
+Kilometers","2465
+meters",01:14:12s,"18/08/2021
+15h 16h"
+8,"10
+Kilometers","2700
+meters",01:32:17s,"18/08/2021
+13h 14h"
+9,"12
+Kilometers","2163
+meters",00:51:48s,"17/08/2021
+16h 17h"
+10,"11
+Kilometers","2169
+meters",00:44:14s,"17/08/2021
+14h 15h"
+11,"5
+Kilometers","2159
+meters",00:17:41s,"17/08/2021
+12h 12h"
+12,"12
+Kilometers","2216
+meters",01:58:16s,"15/08/2021
+16h 18h"
+13,"4
+Kilometers","2257
+meters",00:24:11s,"14/08/2021
+17h 18h"
+14,"0
+Kilometers","2181
+meters",00:03:03s,"14/08/2021
+17h 17h"
+15,"6
+Kilometers","2289
+meters",00:35:12s,"14/08/2021
+16h 17h"
+16,"10
+Kilometers","2441
+meters",00:26:43s,"14/08/2021
+16h 17h"
+17,"44
+Kilometers","4725
+meters",02:58:44s,"14/08/2021
+15h 18h"
+18,"41
+Kilometers","4333
+meters",02:04:00s,"14/08/2021
+14h 16h"
+19,"6
+Kilometers","2641
+meters",00:41:59s,"14/08/2021
+14h 15h"
+0,"7
+Kilometers","2159
+meters",00:24:28s,"13/08/2021
+18h 18h"
+1,"6
+Kilometers","2673
+meters",00:35:56s,"13/08/2021
+16h 17h"
+2,"8
+Kilometers","2186
+meters",00:26:09s,"13/08/2021
+16h 17h"
+3,"6
+Kilometers","2677
+meters",00:24:43s,"13/08/2021
+16h 17h"
+4,"7
+Kilometers","2170
+meters",00:26:43s,"13/08/2021
+15h 15h"
+5,"13
+Kilometers","3294
+meters",01:24:44s,"13/08/2021
+14h 16h"
+6,"22
+Kilometers","3398
+meters",01:27:11s,"13/08/2021
+14h 15h"
+7,"22
+Kilometers","3393
+meters",01:27:36s,"13/08/2021
+14h 15h"
+8,"23
+Kilometers","3555
+meters",02:07:12s,"13/08/2021
+14h 16h"
+9,"11
+Kilometers","2517
+meters",01:03:27s,"13/08/2021
+13h 14h"
+10,"6
+Kilometers","2165
+meters",00:23:54s,"13/08/2021
+13h 13h"
+11,"7
+Kilometers","2168
+meters",00:18:30s,"13/08/2021
+13h 13h"
+12,"6
+Kilometers","2158
+meters",00:16:02s,"13/08/2021
+12h 12h"
+13,"7
+Kilometers","2167
+meters",00:17:41s,"13/08/2021
+12h 12h"
+14,"7
+Kilometers","2163
+meters",00:17:08s,"13/08/2021
+12h 12h"
+15,"8
+Kilometers","2151
+meters",00:17:17s,"13/08/2021
+11h 11h"
+16,"7
+Kilometers","2166
+meters",00:18:08s,"12/08/2021
+17h 18h"
+17,"7
+Kilometers","2362
+meters",00:33:08s,"12/08/2021
+17h 18h"
+18,"6
+Kilometers","2181
+meters",00:16:13s,"12/08/2021
+15h 16h"
+19,"6
+Kilometers","2263
+meters",00:24:36s,"12/08/2021
+15h 15h"
+0,"6
+Kilometers","2252
+meters",00:20:35s,"12/08/2021
+13h 13h"
+1,"6
+Kilometers","2174
+meters",00:18:54s,"12/08/2021
+12h 13h"
+2,"6
+Kilometers","2159
+meters",00:18:05s,"12/08/2021
+10h 11h"
+3,"5
+Kilometers","2321
+meters",00:19:19s,"11/08/2021
+17h 17h"
+4,"14
+Kilometers","2869
+meters",00:49:20s,"11/08/2021
+16h 17h"
+5,"10
+Kilometers","2662
+meters",01:04:00s,"11/08/2021
+14h 15h"
+6,"10
+Kilometers","2732
+meters",00:36:54s,"11/08/2021
+14h 14h"
+7,"8
+Kilometers","2242
+meters",00:26:09s,"11/08/2021
+13h 14h"
+8,"8
+Kilometers","2164
+meters",00:20:30s,"11/08/2021
+13h 13h"
+9,"4
+Kilometers","2165
+meters",00:15:59s,"11/08/2021
+12h 12h"
+10,"6
+Kilometers","2163
+meters",00:16:33s,"11/08/2021
+12h 12h"
+11,"7
+Kilometers","2163
+meters",00:25:24s,"11/08/2021
+12h 12h"
+12,"6
+Kilometers","2144
+meters",00:18:15s,"11/08/2021
+12h 12h"
+13,"4
+Kilometers","2154
+meters",00:13:43s,"11/08/2021
+10h 11h"
+14,"7
+Kilometers","2211
+meters",00:14:50s,"11/08/2021
+10h 10h"
+15,"5
+Kilometers","2291
+meters",00:22:12s,"10/08/2021
+16h 16h"
+16,"5
+Kilometers","2247
+meters",00:21:17s,"10/08/2021
+15h 15h"
+17,"13
+Kilometers","2163
+meters",01:20:58s,"09/08/2021
+14h 16h"
+18,"10
+Kilometers","2198
+meters",00:32:42s,"09/08/2021
+14h 14h"
+19,"7
+Kilometers","2173
+meters",00:31:30s,"09/08/2021
+11h 11h"
+0,"10
+Kilometers","2112
+meters",00:36:20s,"09/08/2021
+09h 10h"
+1,"9
+Kilometers","2267
+meters",00:42:04s,"08/08/2021
+17h 17h"
+2,"4
+Kilometers","2209
+meters",00:18:48s,"08/08/2021
+17h 17h"
+3,"4
+Kilometers","2165
+meters",00:22:46s,"08/08/2021
+15h 15h"
+4,"6
+Kilometers","2164
+meters",00:19:23s,"06/08/2021
+17h 18h"
+5,"6
+Kilometers","2194
+meters",00:24:12s,"06/08/2021
+17h 18h"
+6,"6
+Kilometers","2225
+meters",00:27:50s,"06/08/2021
+15h 15h"
+7,"5
+Kilometers","2228
+meters",00:27:17s,"05/08/2021
+17h 18h"
+8,"5
+Kilometers","2180
+meters",00:18:15s,"05/08/2021
+15h 16h"
+9,"3
+Kilometers","2100
+meters",00:10:54s,"05/08/2021
+12h 13h"
+10,"8
+Kilometers","2299
+meters",00:53:25s,"02/08/2021
+13h 13h"
+11,"11
+Kilometers","2220
+meters",00:53:17s,"02/08/2021
+09h 10h"
+12,"3
+Kilometers","2157
+meters",00:15:25s,"31/07/2021
+14h 14h"
+13,"6
+Kilometers","2169
+meters",00:19:56s,"31/07/2021
+11h 11h"
+14,"7
+Kilometers","2224
+meters",00:41:59s,"29/07/2021
+16h 16h"
+15,"8
+Kilometers","2168
+meters",00:25:37s,"29/07/2021
+14h 14h"
+16,"8
+Kilometers","2297
+meters",01:00:38s,"29/07/2021
+12h 13h"
+17,"7
+Kilometers","2169
+meters",00:18:48s,"27/07/2021
+14h 14h"
+18,"5
+Kilometers","2162
+meters",00:19:23s,"27/07/2021
+12h 12h"
+19,"4
+Kilometers","2155
+meters",00:14:17s,"25/07/2021
+15h 16h"
+0,"4
+Kilometers","2160
+meters",00:13:43s,"25/07/2021
+10h 10h"
+1,"5
+Kilometers","2228
+meters",00:23:20s,"23/07/2021
+14h 14h"
+2,"11
+Kilometers","2836
+meters",00:51:01s,"22/07/2021
+17h 18h"
+3,"3
+Kilometers","2167
+meters",00:13:43s,"22/07/2021
+10h 10h"
+4,"8
+Kilometers","2514
+meters",00:37:11s,"20/07/2021
+12h 12h"
+5,"6
+Kilometers","2168
+meters",00:24:28s,"19/07/2021
+15h 15h"
+6,"6
+Kilometers","2161
+meters",00:25:37s,"19/07/2021
+13h 14h"
+7,"6
+Kilometers","2161
+meters",00:22:12s,"19/07/2021
+13h 13h"
+8,"7
+Kilometers","2164
+meters",00:18:54s,"19/07/2021
+12h 12h"
+9,"6
+Kilometers","2146
+meters",00:32:56s,"19/07/2021
+11h 12h"
+10,"6
+Kilometers","2164
+meters",00:16:28s,"19/07/2021
+10h 11h"
+11,"11
+Kilometers","2182
+meters",00:57:14s,"18/07/2021
+14h 15h"
+12,"6
+Kilometers","2164
+meters",00:32:56s,"18/07/2021
+12h 12h"
+13,"5
+Kilometers","2164
+meters",00:22:12s,"17/07/2021
+15h 16h"
+14,"10
+Kilometers","2246
+meters",00:29:33s,"17/07/2021
+14h 15h"
+15,"21
+Kilometers","2295
+meters",01:22:23s,"17/07/2021
+14h 16h"
+16,"4
+Kilometers","2169
+meters",00:14:51s,"17/07/2021
+14h 14h"
+17,"5
+Kilometers","2344
+meters",00:19:56s,"17/07/2021
+13h 13h"
+18,"4
+Kilometers","2405
+meters",00:27:17s,"17/07/2021
+12h 13h"
+19,"7
+Kilometers","2159
+meters",00:24:28s,"17/07/2021
+12h 12h"
+0,"21
+Kilometers","2155
+meters",01:40:45s,"17/07/2021
+11h 13h"
+1,"14
+Kilometers","2408
+meters",01:35:06s,"11/07/2021
+15h 17h"
+2,"8
+Kilometers","2157
+meters",00:22:46s,"11/07/2021
+14h 15h"
+3,"10
+Kilometers","2193
+meters",00:34:43s,"11/07/2021
+13h 14h"
+4,"9
+Kilometers","2163
+meters",00:51:35s,"11/07/2021
+13h 14h"
+5,"7
+Kilometers","2158
+meters",00:56:40s,"11/07/2021
+13h 14h"
+6,"7
+Kilometers","2158
+meters",00:21:38s,"11/07/2021
+11h 12h"
+7,"4
+Kilometers","2164
+meters",00:12:02s,"11/07/2021
+10h 10h"
+8,"21
+Kilometers","2789
+meters",01:05:41s,"10/07/2021
+14h 15h"
+9,"5
+Kilometers","2173
+meters",00:28:59s,"09/07/2021
+17h 17h"
+10,"4
+Kilometers","2157
+meters",00:15:25s,"09/07/2021
+12h 12h"
+11,"3
+Kilometers","2155
+meters",00:15:59s,"09/07/2021
+11h 11h"
+12,"8
+Kilometers","2107
+meters",00:17:05s,"06/07/2021
+10h 10h"
+13,"5
+Kilometers","2152
+meters",00:15:23s,"03/07/2021
+12h 12h"
+14,"10
+Kilometers","2732
+meters",00:58:56s,"13/06/2021
+13h 14h"
+15,"4
+Kilometers","2176
+meters",00:26:43s,"29/05/2021
+13h 14h"
+16,"3
+Kilometers","2320
+meters",00:15:25s,"25/05/2021
+16h 16h"
+17,"8
+Kilometers","2715
+meters",00:37:28s,"23/04/2021
+14h 15h"
+18,"7
+Kilometers","2376
+meters",00:29:33s,"21/04/2021
+14h 14h"
+19,"4
+Kilometers","2278
+meters",00:13:10s,"17/04/2021
+17h 17h"
+0,"3
+Kilometers","2606
+meters",00:20:30s,"17/04/2021
+15h 16h"
+1,"5
+Kilometers","2294
+meters",00:19:23s,"17/04/2021
+15h 15h"
+2,"3
+Kilometers","2628
+meters",00:45:22s,"17/04/2021
+15h 16h"
+3,"1
+Kilometers","2359
+meters",00:06:23s,"17/04/2021
+15h 15h"
+4,"5
+Kilometers","2181
+meters",00:20:30s,"17/04/2021
+14h 15h"
+5,"4
+Kilometers","2920
+meters",00:18:48s,"17/04/2021
+13h 14h"
+6,"4
+Kilometers","2379
+meters",00:16:33s,"17/04/2021
+13h 13h"
+7,"8
+Kilometers","2653
+meters",00:26:09s,"17/04/2021
+13h 13h"
+8,"13
+Kilometers","2862
+meters",00:49:53s,"17/04/2021
+13h 14h"
+9,"2
+Kilometers","2813
+meters",00:21:04s,"17/04/2021
+13h 13h"
+10,"21
+Kilometers","3226
+meters",01:05:09s,"17/04/2021
+13h 14h"
+11,"0
+Kilometers","2175
+meters",00:01:18s,"17/04/2021
+13h 13h"
+12,"12
+Kilometers","2402
+meters",00:32:03s,"17/04/2021
+13h 13h"
+13,"10
+Kilometers","2726
+meters",00:56:40s,"17/04/2021
+12h 13h"
+14,"3
+Kilometers","2208
+meters",00:12:50s,"17/04/2021
+12h 12h"
+15,"4
+Kilometers","2176
+meters",00:21:04s,"17/04/2021
+11h 11h"
+16,"5
+Kilometers","2179
+meters",00:15:25s,"17/04/2021
+11h 11h"
+17,"7
+Kilometers","2189
+meters",00:14:51s,"15/04/2021
+13h 13h"
+18,"42
+Kilometers","2669
+meters",01:44:42s,"15/04/2021
+13h 14h"
+19,"18
+Kilometers","2364
+meters",00:59:30s,"15/04/2021
+10h 11h"
+0,"10
+Kilometers","2219
+meters",00:29:33s,"14/04/2021
+18h 18h"
+1,"6
+Kilometers","2357
+meters",00:26:09s,"14/04/2021
+13h 14h"
+2,"8
+Kilometers","2175
+meters",00:23:20s,"14/04/2021
+12h 12h"
+3,"1
+Kilometers","2306
+meters",00:09:12s,"14/04/2021
+11h 12h"
+4,"13
+Kilometers","2606
+meters",00:45:56s,"13/04/2021
+17h 18h"
+5,"6
+Kilometers","2543
+meters",00:23:54s,"10/04/2021
+14h 14h"
+6,"13
+Kilometers","2686
+meters",01:07:25s,"08/04/2021
+14h 15h"
+7,"9
+Kilometers","2523
+meters",00:35:46s,"08/04/2021
+13h 14h"
+8,"3
+Kilometers","2185
+meters",00:21:04s,"05/04/2021
+12h 12h"
+9,"5
+Kilometers","2216
+meters",00:17:07s,"04/04/2021
+17h 17h"
+10,"6
+Kilometers","2725
+meters",00:27:17s,"04/04/2021
+16h 16h"
+11,"5
+Kilometers","2357
+meters",00:34:38s,"04/04/2021
+16h 16h"
+12,"7
+Kilometers","2556
+meters",00:39:09s,"04/04/2021
+15h 15h"
+13,"23
+Kilometers","2862
+meters",01:08:33s,"04/04/2021
+14h 16h"
+14,"11
+Kilometers","2668
+meters",00:58:56s,"04/04/2021
+13h 14h"
+15,"7
+Kilometers","2207
+meters",00:34:38s,"04/04/2021
+13h 14h"
+16,"5
+Kilometers","2256
+meters",00:30:04s,"04/04/2021
+13h 13h"
+17,"3
+Kilometers","2145
+meters",00:09:12s,"04/04/2021
+11h 12h"
+18,"5
+Kilometers","2170
+meters",00:25:37s,"04/04/2021
+11h 12h"
+19,"6
+Kilometers","2440
+meters",00:57:14s,"03/04/2021
+14h 14h"
+0,"25
+Kilometers","2880
+meters",01:44:08s,"02/04/2021
+14h 16h"
+1,"57
+Kilometers","3413
+meters",04:11:38s,"02/04/2021
+14h 18h"
+2,"76
+Kilometers","3710
+meters",04:16:10s,"02/04/2021
+14h 18h"
+3,"49
+Kilometers","3529
+meters",02:42:21s,"01/04/2021
+15h 18h"
+4,"27
+Kilometers","3673
+meters",02:31:37s,"01/04/2021
+13h 16h"
+5,"23
+Kilometers","3849
+meters",01:37:46s,"31/03/2021
+15h 17h"
+6,"105
+Kilometers","3834
+meters",04:47:47s,"31/03/2021
+13h 18h"
+7,"97
+Kilometers","3539
+meters",04:38:46s,"31/03/2021
+13h 18h"
+8,"78
+Kilometers","3525
+meters",04:41:57s,"31/03/2021
+13h 18h"
+9,"87
+Kilometers","3544
+meters",04:39:22s,"31/03/2021
+13h 17h"
+10,"55
+Kilometers","3411
+meters",03:50:11s,"30/03/2021
+14h 18h"
+11,"25
+Kilometers","2790
+meters",01:41:19s,"29/03/2021
+17h 18h"
+12,"6
+Kilometers","2708
+meters",00:26:43s,"29/03/2021
+16h 16h"
+13,"0
+Kilometers","2177
+meters",00:01:18s,"29/03/2021
+15h 15h"
+14,"8
+Kilometers","2534
+meters",00:39:43s,"29/03/2021
+15h 15h"
+15,"19
+Kilometers","2566
+meters",00:59:30s,"28/03/2021
+17h 18h"
+16,"9
+Kilometers","2884
+meters",00:31:15s,"28/03/2021
+15h 16h"
+17,"21
+Kilometers","3126
+meters",01:20:58s,"28/03/2021
+15h 16h"
+18,"9
+Kilometers","2708
+meters",00:54:59s,"28/03/2021
+14h 15h"
+19,"15
+Kilometers","2838
+meters",00:45:22s,"28/03/2021
+14h 15h"
+0,"26
+Kilometers","2811
+meters",01:31:42s,"28/03/2021
+14h 15h"
+1,"37
+Kilometers","2812
+meters",01:58:16s,"28/03/2021
+14h 16h"
+2,"4
+Kilometers","2180
+meters",00:14:17s,"28/03/2021
+11h 12h"
+3,"10
+Kilometers","3250
+meters",00:50:28s,"26/03/2021
+16h 16h"
+4,"4
+Kilometers","2186
+meters",00:15:28s,"26/03/2021
+12h 12h"
+5,"16
+Kilometers","2995
+meters",01:17:35s,"25/03/2021
+16h 18h"
+6,"5
+Kilometers","2215
+meters",00:29:45s,"25/03/2021
+16h 16h"
+7,"12
+Kilometers","2896
+meters",00:47:04s,"25/03/2021
+14h 15h"
+8,"17
+Kilometers","2933
+meters",01:00:38s,"25/03/2021
+12h 13h"
+9,"12
+Kilometers","3221
+meters",02:07:35s,"25/03/2021
+12h 14h"
+10,"5
+Kilometers","2181
+meters",00:14:17s,"25/03/2021
+11h 11h"
+11,"5
+Kilometers","2178
+meters",00:16:19s,"25/03/2021
+11h 11h"
+12,"33
+Kilometers","3063
+meters",01:54:19s,"24/03/2021
+15h 17h"
+13,"25
+Kilometers","3035
+meters",01:33:24s,"24/03/2021
+13h 14h"
+14,"17
+Kilometers","2417
+meters",00:52:09s,"19/03/2021
+14h 14h"
+15,"6
+Kilometers","2493
+meters",00:18:15s,"19/03/2021
+13h 13h"
+16,"31
+Kilometers","2280
+meters",02:13:32s,"19/03/2021
+10h 13h"
+17,"17
+Kilometers","2462
+meters",00:53:17s,"07/03/2021
+14h 15h"
+18,"16
+Kilometers","2675
+meters",01:06:51s,"07/03/2021
+15h 16h"
+19,"29
+Kilometers","2939
+meters",01:07:58s,"06/03/2021
+17h 18h"
+0,"5
+Kilometers","2187
+meters",00:26:43s,"06/03/2021
+16h 17h"
+1,"5
+Kilometers","2206
+meters",00:30:07s,"06/03/2021
+17h 18h"
+2,"10
+Kilometers","3311
+meters",01:34:39s,"06/03/2021
+15h 17h"
+3,"24
+Kilometers","2894
+meters",02:08:27s,"06/03/2021
+15h 17h"
+4,"8
+Kilometers","2679
+meters",00:25:02s,"06/03/2021
+15h 15h"
+5,"41
+Kilometers","3394
+meters",01:26:37s,"06/03/2021
+14h 16h"
+6,"10
+Kilometers","2891
+meters",00:53:51s,"06/03/2021
+15h 16h"
+7,"9
+Kilometers","2860
+meters",00:39:25s,"06/03/2021
+13h 14h"
+8,"30
+Kilometers","2888
+meters",01:18:43s,"06/03/2021
+13h 14h"
+9,"57
+Kilometers","3054
+meters",03:00:44s,"06/03/2021
+13h 16h"
+10,"15
+Kilometers","3004
+meters",01:01:12s,"06/03/2021
+13h 14h"
+11,"17
+Kilometers","2939
+meters",01:34:32s,"06/03/2021
+12h 13h"
+12,"17
+Kilometers","3112
+meters",01:33:24s,"04/03/2021
+15h 16h"
+13,"11
+Kilometers","2754
+meters",00:43:07s,"04/03/2021
+12h 13h"
+14,"5
+Kilometers","2447
+meters",00:19:41s,"02/03/2021
+16h 17h"
+15,"19
+Kilometers","2647
+meters",01:17:35s,"02/03/2021
+15h 16h"
+16,"8
+Kilometers","2613
+meters",01:15:08s,"02/03/2021
+15h 16h"
+17,"19
+Kilometers","2604
+meters",01:26:04s,"02/03/2021
+14h 15h"
+18,"47
+Kilometers","2766
+meters",03:15:41s,"02/03/2021
+13h 16h"
+19,"17
+Kilometers","2713
+meters",01:30:35s,"01/03/2021
+16h 17h"
+0,"19
+Kilometers","2591
+meters",01:57:42s,"01/03/2021
+12h 14h"
+1,"20
+Kilometers","2689
+meters",01:47:32s,"28/02/2021
+16h 18h"
+2,"19
+Kilometers","2540
+meters",01:08:32s,"28/02/2021
+13h 15h"
+3,"16
+Kilometers","2543
+meters",01:10:14s,"28/02/2021
+13h 15h"
+4,"15
+Kilometers","2585
+meters",01:01:45s,"28/02/2021
+13h 14h"
+5,"9
+Kilometers","2579
+meters",00:44:14s,"28/02/2021
+13h 14h"
+6,"20
+Kilometers","2584
+meters",01:17:01s,"28/02/2021
+12h 13h"
+7,"39
+Kilometers","2610
+meters",03:00:56s,"28/02/2021
+11h 14h"
+8,"4
+Kilometers","2176
+meters",00:15:59s,"27/02/2021
+17h 17h"
+9,"6
+Kilometers","2210
+meters",00:38:01s,"27/02/2021
+16h 17h"
+10,"7
+Kilometers","2292
+meters",00:36:54s,"27/02/2021
+14h 15h"
+11,"12
+Kilometers","2530
+meters",00:49:53s,"27/02/2021
+14h 15h"
+12,"7
+Kilometers","2715
+meters",00:40:51s,"27/02/2021
+13h 13h"
+13,"13
+Kilometers","2178
+meters",01:34:32s,"27/02/2021
+11h 13h"
+14,"4
+Kilometers","2174
+meters",00:17:41s,"27/02/2021
+11h 11h"
+15,"3
+Kilometers","2265
+meters",00:14:17s,"25/02/2021
+15h 16h"
+16,"14
+Kilometers","2689
+meters",00:58:56s,"25/02/2021
+14h 15h"
+17,"17
+Kilometers","2550
+meters",01:34:37s,"25/02/2021
+14h 16h"
+18,"2
+Kilometers","2606
+meters",00:17:41s,"25/02/2021
+14h 14h"
+19,"2
+Kilometers","2423
+meters",00:18:48s,"25/02/2021
+13h 14h"
+0,"10
+Kilometers","2698
+meters",01:06:51s,"24/02/2021
+16h 17h"
+1,"25
+Kilometers","2637
+meters",02:04:54s,"24/02/2021
+14h 17h"
+2,"4
+Kilometers","2346
+meters",00:30:07s,"24/02/2021
+12h 13h"
+3,"4
+Kilometers","2176
+meters",00:21:38s,"24/02/2021
+10h 11h"
+4,"4
+Kilometers","2749
+meters",00:28:25s,"23/02/2021
+16h 16h"
+5,"11
+Kilometers","2848
+meters",01:54:19s,"23/02/2021
+14h 16h"
+6,"0
+Kilometers","2179
+meters",00:01:51s,"23/02/2021
+13h 13h"
+7,"6
+Kilometers","2467
+meters",00:27:17s,"21/02/2021
+14h 14h"
+8,"6
+Kilometers","2175
+meters",00:18:15s,"20/02/2021
+11h 12h"
+9,"16
+Kilometers","2785
+meters",01:33:58s,"19/02/2021
+15h 17h"
+10,"7
+Kilometers","2738
+meters",00:31:48s,"19/02/2021
+14h 14h"
+11,"3
+Kilometers","2182
+meters",00:13:43s,"18/02/2021
+13h 13h"
+12,"21
+Kilometers","2612
+meters",01:28:53s,"17/02/2021
+13h 15h"
+13,"17
+Kilometers","2562
+meters",01:34:32s,"17/02/2021
+13h 15h"
+14,"8
+Kilometers","2170
+meters",00:54:59s,"17/02/2021
+12h 13h"
+15,"4
+Kilometers","2176
+meters",00:17:41s,"16/02/2021
+15h 15h"
+16,"4
+Kilometers","2183
+meters",00:15:25s,"16/02/2021
+15h 15h"
+17,"5
+Kilometers","2183
+meters",00:22:12s,"16/02/2021
+14h 14h"
+18,"5
+Kilometers","2183
+meters",00:19:23s,"16/02/2021
+14h 14h"
+19,"3
+Kilometers","2186
+meters",00:14:57s,"16/02/2021
+15h 15h"
+0,"3
+Kilometers","2190
+meters",00:17:30s,"16/02/2021
+13h 14h"
+1,"4
+Kilometers","2181
+meters",00:26:09s,"16/02/2021
+12h 13h"
+2,"5
+Kilometers","2180
+meters",00:18:48s,"16/02/2021
+12h 13h"
+3,"4
+Kilometers","2179
+meters",00:17:07s,"16/02/2021
+11h 11h"
+4,"4
+Kilometers","2179
+meters",00:16:33s,"16/02/2021
+11h 11h"
+5,"5
+Kilometers","2181
+meters",00:18:48s,"15/02/2021
+14h 14h"
+6,"3
+Kilometers","2118
+meters",00:17:41s,"15/02/2021
+12h 12h"
+7,"12
+Kilometers","2289
+meters",00:48:20s,"14/02/2021
+16h 17h"
+8,"5
+Kilometers","2182
+meters",00:33:39s,"14/02/2021
+15h 16h"
+9,"4
+Kilometers","2174
+meters",00:35:46s,"14/02/2021
+15h 15h"
+10,"10
+Kilometers","2382
+meters",01:07:48s,"14/02/2021
+14h 15h"
+11,"1
+Kilometers","2397
+meters",00:08:04s,"14/02/2021
+14h 14h"
+12,"5
+Kilometers","2381
+meters",00:48:46s,"14/02/2021
+12h 13h"
+13,"1
+Kilometers","2369
+meters",00:13:10s,"14/02/2021
+13h 13h"
+14,"5
+Kilometers","2287
+meters",00:44:11s,"14/02/2021
+12h 13h"
+15,"11
+Kilometers","2182
+meters",00:39:14s,"11/02/2021
+15h 16h"
+16,"5
+Kilometers","2177
+meters",00:17:41s,"09/02/2021
+15h 15h"
+17,"4
+Kilometers","2332
+meters",00:25:37s,"09/02/2021
+14h 14h"
+18,"6
+Kilometers","2177
+meters",00:24:28s,"09/02/2021
+13h 13h"
+19,"5
+Kilometers","2422
+meters",00:34:04s,"09/02/2021
+12h 12h"
+0,"4
+Kilometers","2176
+meters",00:17:41s,"26/01/2021
+16h 16h"
+1,"4
+Kilometers","2141
+meters",00:15:25s,"26/01/2021
+14h 15h"
+2,"5
+Kilometers","2177
+meters",00:15:25s,"26/01/2021
+13h 13h"
+3,"5
+Kilometers","2529
+meters",00:33:40s,"24/01/2021
+15h 16h"
+4,"7
+Kilometers","2722
+meters",00:39:09s,"24/01/2021
+13h 14h"
+5,"4
+Kilometers","2178
+meters",00:08:38s,"16/01/2021
+16h 16h"
+6,"15
+Kilometers","2343
+meters",00:58:56s,"11/01/2021
+14h 15h"
+7,"4
+Kilometers","2173
+meters",00:19:23s,"10/01/2021
+16h 16h"
+8,"4
+Kilometers","2170
+meters",00:18:48s,"10/01/2021
+15h 15h"
+9,"14
+Kilometers","2440
+meters",00:43:07s,"10/01/2021
+14h 15h"
+10,"4
+Kilometers","2174
+meters",00:10:20s,"10/01/2021
+14h 14h"
+11,"4
+Kilometers","2178
+meters",00:15:59s,"09/01/2021
+16h 16h"
+12,"4
+Kilometers","2169
+meters",00:17:07s,"09/01/2021
+15h 15h"
+13,"4
+Kilometers","2176
+meters",00:14:51s,"08/01/2021
+16h 17h"
+14,"7
+Kilometers","2292
+meters",01:02:53s,"08/01/2021
+15h 16h"
+15,"4
+Kilometers","2178
+meters",00:12:37s,"08/01/2021
+15h 15h"
+16,"19
+Kilometers","2356
+meters",01:03:27s,"08/01/2021
+15h 16h"
+17,"5
+Kilometers","2317
+meters",00:51:35s,"08/01/2021
+14h 15h"
+18,"2
+Kilometers","2383
+meters",00:22:46s,"08/01/2021
+14h 14h"
+19,"3
+Kilometers","2202
+meters",00:08:38s,"08/01/2021
+14h 15h"
+0,"8
+Kilometers","2396
+meters",00:51:01s,"08/01/2021
+13h 14h"
+1,"4
+Kilometers","2177
+meters",00:10:20s,"08/01/2021
+13h 13h"
+2,"4
+Kilometers","2185
+meters",00:12:37s,"08/01/2021
+11h 11h"
+3,"11
+Kilometers","2395
+meters",00:38:01s,"07/01/2021
+15h 16h"
+4,"4
+Kilometers","2173
+meters",00:18:48s,"07/01/2021
+15h 15h"
+5,"2
+Kilometers","2400
+meters",00:18:15s,"07/01/2021
+15h 15h"
+6,"11
+Kilometers","2330
+meters",01:01:24s,"07/01/2021
+15h 16h"
+7,"4
+Kilometers","2172
+meters",00:15:59s,"07/01/2021
+13h 13h"
+8,"4
+Kilometers","2170
+meters",00:16:33s,"07/01/2021
+11h 11h"
+9,"9
+Kilometers","2219
+meters",00:26:09s,"18/12/2020
+16h 16h"
+10,"15
+Kilometers","2509
+meters",01:09:40s,"18/12/2020
+14h 15h"
+11,"6
+Kilometers","2474
+meters",00:29:33s,"18/12/2020
+12h 12h"
+12,"6
+Kilometers","2290
+meters",00:28:25s,"17/12/2020
+11h 12h"
+13,"4
+Kilometers","2189
+meters",00:21:38s,"29/11/2020
+16h 16h"
+14,"4
+Kilometers","2156
+meters",00:20:40s,"29/11/2020
+16h 16h"
+15,"4
+Kilometers","2159
+meters",00:18:48s,"29/11/2020
+15h 16h"
+16,"4
+Kilometers","2163
+meters",00:10:20s,"29/11/2020
+15h 16h"
+17,"11
+Kilometers","2416
+meters",00:38:12s,"29/11/2020
+15h 16h"
+18,"11
+Kilometers","2404
+meters",00:35:46s,"29/11/2020
+15h 16h"
+19,"4
+Kilometers","2276
+meters",00:23:54s,"29/11/2020
+14h 14h"
+0,"3
+Kilometers","2159
+meters",00:21:04s,"29/11/2020
+14h 14h"
+1,"5
+Kilometers","2165
+meters",00:18:00s,"29/11/2020
+14h 14h"
+2,"5
+Kilometers","2157
+meters",00:21:04s,"29/11/2020
+15h 15h"
+3,"10
+Kilometers","2382
+meters",00:34:38s,"29/11/2020
+13h 14h"
+4,"5
+Kilometers","2157
+meters",00:29:33s,"29/11/2020
+14h 15h"
+5,"4
+Kilometers","2165
+meters",00:34:07s,"29/11/2020
+13h 14h"
+6,"4
+Kilometers","2165
+meters",00:34:07s,"29/11/2020
+13h 14h"
+7,"5
+Kilometers","2220
+meters",00:19:56s,"29/11/2020
+14h 14h"
+8,"6
+Kilometers","2158
+meters",00:27:17s,"29/11/2020
+13h 13h"
+9,"4
+Kilometers","2168
+meters",00:18:26s,"29/11/2020
+13h 13h"
+10,"4
+Kilometers","2158
+meters",00:11:28s,"29/11/2020
+13h 13h"
+11,"4
+Kilometers","2157
+meters",00:15:59s,"29/11/2020
+12h 12h"
+12,"6
+Kilometers","2162
+meters",00:15:25s,"29/11/2020
+13h 13h"
+13,"4
+Kilometers","2160
+meters",00:15:59s,"29/11/2020
+13h 13h"
+14,"3
+Kilometers","2162
+meters",00:13:10s,"29/11/2020
+12h 12h"
+15,"7
+Kilometers","2179
+meters",00:21:17s,"29/11/2020
+11h 12h"
+16,"0
+Kilometers","2168
+meters",00:02:25s,"29/11/2020
+12h 13h"
+17,"4
+Kilometers","2165
+meters",00:22:52s,"29/11/2020
+11h 12h"
+18,"4
+Kilometers","2169
+meters",00:11:28s,"29/11/2020
+11h 11h"
+19,"6
+Kilometers","2175
+meters",00:15:59s,"29/11/2020
+11h 11h"
+0,"9
+Kilometers","2156
+meters",00:18:48s,"28/11/2020
+16h 17h"
+1,"7
+Kilometers","2162
+meters",00:21:04s,"28/11/2020
+17h 17h"
+2,"3
+Kilometers","2088
+meters",00:08:38s,"28/11/2020
+16h 16h"
+3,"6
+Kilometers","2146
+meters",00:22:12s,"28/11/2020
+16h 16h"
+4,"5
+Kilometers","2153
+meters",00:16:37s,"28/11/2020
+16h 16h"
+5,"7
+Kilometers","2449
+meters",00:52:43s,"28/11/2020
+15h 16h"
+6,"11
+Kilometers","2651
+meters",00:50:24s,"28/11/2020
+15h 16h"
+7,"9
+Kilometers","2453
+meters",00:41:59s,"28/11/2020
+16h 16h"
+8,"6
+Kilometers","2555
+meters",00:42:33s,"28/11/2020
+15h 15h"
+9,"8
+Kilometers","2494
+meters",00:57:48s,"28/11/2020
+14h 15h"
+10,"6
+Kilometers","2616
+meters",01:05:43s,"28/11/2020
+15h 16h"
+11,"20
+Kilometers","2636
+meters",01:34:20s,"28/11/2020
+14h 16h"
+12,"4
+Kilometers","2160
+meters",00:11:28s,"28/11/2020
+14h 14h"
+13,"8
+Kilometers","2163
+meters",00:32:49s,"28/11/2020
+14h 14h"
+14,"4
+Kilometers","2159
+meters",00:18:48s,"28/11/2020
+15h 15h"
+15,"4
+Kilometers","2163
+meters",00:11:16s,"28/11/2020
+14h 14h"
+16,"5
+Kilometers","2162
+meters",00:24:28s,"28/11/2020
+13h 13h"
+17,"5
+Kilometers","2160
+meters",00:22:12s,"28/11/2020
+14h 14h"
+18,"5
+Kilometers","2127
+meters",00:23:54s,"28/11/2020
+14h 14h"
+19,"4
+Kilometers","2162
+meters",00:17:41s,"28/11/2020
+13h 13h"
+0,"0
+Kilometers","2161
+meters",00:01:51s,"28/11/2020
+13h 13h"
+1,"5
+Kilometers","2163
+meters",00:15:25s,"28/11/2020
+12h 12h"
+2,"6
+Kilometers","2218
+meters",00:22:24s,"28/11/2020
+12h 12h"
+3,"7
+Kilometers","2213
+meters",00:27:04s,"28/11/2020
+12h 13h"
+4,"4
+Kilometers","2164
+meters",00:15:59s,"28/11/2020
+12h 13h"
+5,"3
+Kilometers","2166
+meters",00:09:12s,"28/11/2020
+11h 12h"
+6,"5
+Kilometers","2161
+meters",00:13:10s,"22/11/2020
+16h 16h"
+7,"3
+Kilometers","2155
+meters",00:14:17s,"22/11/2020
+15h 15h"
+8,"7
+Kilometers","2162
+meters",00:25:37s,"22/11/2020
+15h 15h"
+9,"4
+Kilometers","2181
+meters",00:23:36s,"22/11/2020
+15h 15h"
+10,"6
+Kilometers","2248
+meters",00:28:33s,"22/11/2020
+13h 14h"
+11,"5
+Kilometers","2158
+meters",00:15:59s,"22/11/2020
+14h 15h"
+12,"4
+Kilometers","2258
+meters",00:20:30s,"22/11/2020
+13h 14h"
+13,"3
+Kilometers","2247
+meters",00:21:04s,"22/11/2020
+13h 13h"
+14,"4
+Kilometers","2240
+meters",00:19:23s,"22/11/2020
+13h 13h"
+15,"4
+Kilometers","2247
+meters",00:30:07s,"22/11/2020
+13h 13h"
+16,"4
+Kilometers","2151
+meters",00:17:07s,"22/11/2020
+11h 11h"
+17,"5
+Kilometers","2490
+meters",00:09:46s,"22/11/2020
+10h 10h"
+18,"5
+Kilometers","2161
+meters",00:15:25s,"21/11/2020
+16h 16h"
+19,"6
+Kilometers","2159
+meters",00:17:07s,"21/11/2020
+16h 16h"
+0,"4
+Kilometers","2156
+meters",00:17:07s,"21/11/2020
+15h 15h"
+1,"4
+Kilometers","2156
+meters",00:17:07s,"21/11/2020
+13h 14h"
+2,"4
+Kilometers","2164
+meters",00:18:15s,"21/11/2020
+13h 14h"
+3,"4
+Kilometers","2160
+meters",00:16:33s,"18/11/2020
+17h 17h"
+4,"6
+Kilometers","2163
+meters",00:26:09s,"18/11/2020
+15h 15h"
+5,"3
+Kilometers","2151
+meters",00:10:54s,"14/11/2020
+17h 17h"
+6,"4
+Kilometers","2151
+meters",00:17:33s,"14/11/2020
+17h 18h"
+7,"4
+Kilometers","2163
+meters",00:14:51s,"14/11/2020
+17h 18h"
+8,"4
+Kilometers","2158
+meters",00:11:28s,"14/11/2020
+16h 16h"
+9,"5
+Kilometers","2498
+meters",00:34:04s,"14/11/2020
+15h 16h"
+10,"4
+Kilometers","2153
+meters",00:18:15s,"14/11/2020
+16h 16h"
+11,"5
+Kilometers","2151
+meters",00:20:54s,"14/11/2020
+14h 14h"
+12,"13
+Kilometers","2685
+meters",01:44:38s,"14/11/2020
+14h 16h"
+13,"10
+Kilometers","2437
+meters",00:43:40s,"14/11/2020
+15h 16h"
+14,"13
+Kilometers","2577
+meters",01:00:38s,"14/11/2020
+14h 15h"
+15,"4
+Kilometers","2475
+meters",00:25:37s,"14/11/2020
+14h 14h"
+16,"5
+Kilometers","2155
+meters",00:20:30s,"14/11/2020
+13h 14h"
+17,"9
+Kilometers","2449
+meters",00:51:35s,"14/11/2020
+13h 14h"
+18,"5
+Kilometers","2175
+meters",00:13:32s,"14/11/2020
+13h 13h"
+19,"4
+Kilometers","2456
+meters",00:21:04s,"14/11/2020
+12h 13h"
+0,"9
+Kilometers","2436
+meters",00:37:35s,"14/11/2020
+12h 13h"
+1,"5
+Kilometers","2165
+meters",00:19:23s,"14/11/2020
+12h 12h"
+2,"4
+Kilometers","2167
+meters",00:18:48s,"14/11/2020
+12h 12h"
+3,"4
+Kilometers","2158
+meters",00:11:28s,"14/11/2020
+11h 11h"
+4,"4
+Kilometers","2141
+meters",00:15:25s,"12/11/2020
+11h 12h"
+5,"2
+Kilometers","2475
+meters",00:34:04s,"11/11/2020
+14h 14h"
+6,"6
+Kilometers","2172
+meters",00:20:30s,"10/11/2020
+16h 17h"
+7,"5
+Kilometers","2197
+meters",00:19:23s,"09/11/2020
+14h 14h"
+8,"7
+Kilometers","2165
+meters",00:17:41s,"08/11/2020
+13h 13h"
+9,"8
+Kilometers","2175
+meters",00:27:28s,"08/11/2020
+13h 13h"
+10,"6
+Kilometers","2246
+meters",00:27:49s,"08/11/2020
+13h 13h"
+11,"4
+Kilometers","2164
+meters",00:24:28s,"08/11/2020
+11h 12h"
+12,"5
+Kilometers","2154
+meters",00:13:26s,"07/11/2020
+17h 17h"
+13,"4
+Kilometers","2160
+meters",00:11:28s,"07/11/2020
+15h 15h"
+14,"4
+Kilometers","2155
+meters",00:18:48s,"07/11/2020
+14h 15h"
+15,"4
+Kilometers","2156
+meters",00:18:15s,"07/11/2020
+14h 15h"
+16,"6
+Kilometers","2151
+meters",00:30:07s,"07/11/2020
+14h 15h"
+17,"4
+Kilometers","2186
+meters",00:10:54s,"07/11/2020
+14h 14h"
+18,"7
+Kilometers","2203
+meters",00:26:09s,"07/11/2020
+14h 14h"
+19,"10
+Kilometers","2485
+meters",00:32:22s,"07/11/2020
+15h 15h"
+0,"4
+Kilometers","2161
+meters",00:18:15s,"07/11/2020
+13h 13h"
+1,"3
+Kilometers","2163
+meters",00:15:25s,"07/11/2020
+13h 13h"
+2,"3
+Kilometers","2161
+meters",00:17:41s,"07/11/2020
+13h 13h"
+3,"4
+Kilometers","2294
+meters",00:21:43s,"07/11/2020
+13h 13h"
+4,"4
+Kilometers","2161
+meters",00:13:43s,"07/11/2020
+11h 12h"
+5,"4
+Kilometers","2166
+meters",00:12:37s,"07/11/2020
+11h 12h"
+6,"4
+Kilometers","2158
+meters",00:14:17s,"06/11/2020
+11h 11h"
+7,"8
+Kilometers","2133
+meters",00:19:56s,"01/11/2020
+14h 14h"
+8,"4
+Kilometers","2041
+meters",00:12:02s,"01/11/2020
+12h 13h"
+9,"4
+Kilometers","2165
+meters",00:14:17s,"01/11/2020
+11h 12h"
+10,"3
+Kilometers","2108
+meters",00:10:54s,"01/11/2020
+11h 12h"
+11,"5
+Kilometers","2165
+meters",00:21:04s,"31/10/2020
+15h 16h"
+12,"5
+Kilometers","2423
+meters",00:31:23s,"31/10/2020
+15h 15h"
+13,"4
+Kilometers","2158
+meters",00:14:17s,"31/10/2020
+15h 15h"
+14,"5
+Kilometers","2254
+meters",00:19:23s,"31/10/2020
+14h 14h"
+15,"5
+Kilometers","2243
+meters",00:29:33s,"31/10/2020
+14h 14h"
+16,"11
+Kilometers","2356
+meters",00:41:36s,"31/10/2020
+13h 14h"
+17,"5
+Kilometers","2168
+meters",00:19:56s,"31/10/2020
+13h 14h"
+18,"4
+Kilometers","2159
+meters",00:15:25s,"31/10/2020
+13h 13h"
+19,"6
+Kilometers","2166
+meters",00:28:25s,"31/10/2020
+13h 13h"
+0,"4
+Kilometers","2159
+meters",00:23:54s,"31/10/2020
+12h 12h"
+1,"5
+Kilometers","2158
+meters",00:20:30s,"31/10/2020
+11h 12h"
+2,"4
+Kilometers","2160
+meters",00:14:17s,"31/10/2020
+11h 11h"
+3,"6
+Kilometers","2166
+meters",00:18:48s,"30/10/2020
+16h 17h"
+4,"4
+Kilometers","2155
+meters",00:25:37s,"30/10/2020
+16h 16h"
+5,"10
+Kilometers","2450
+meters",01:02:17s,"30/10/2020
+15h 16h"
+6,"5
+Kilometers","2167
+meters",00:18:15s,"30/10/2020
+15h 15h"
+7,"14
+Kilometers","2587
+meters",00:46:55s,"30/10/2020
+13h 13h"
+8,"4
+Kilometers","2246
+meters",00:17:07s,"27/10/2020
+13h 13h"
+9,"4
+Kilometers","2165
+meters",00:13:43s,"25/10/2020
+15h 15h"
+10,"4
+Kilometers","2168
+meters",00:13:10s,"25/10/2020
+13h 13h"
+11,"0
+Kilometers","2165
+meters",00:01:51s,"25/10/2020
+13h 13h"
+12,"9
+Kilometers","2239
+meters",00:39:43s,"24/10/2020
+13h 14h"
+13,"11
+Kilometers","2217
+meters",00:47:04s,"24/10/2020
+13h 14h"
+14,"5
+Kilometers","2135
+meters",00:35:12s,"24/10/2020
+12h 12h"
+15,"6
+Kilometers","2166
+meters",00:31:15s,"24/10/2020
+12h 12h"
+16,"3
+Kilometers","2139
+meters",00:16:33s,"24/10/2020
+10h 10h"
+17,"4
+Kilometers","2177
+meters",00:15:59s,"24/10/2020
+10h 10h"
+18,"4
+Kilometers","2158
+meters",00:14:51s,"23/10/2020
+16h 16h"
+19,"5
+Kilometers","2156
+meters",00:15:25s,"19/10/2020
+16h 17h"
+0,"6
+Kilometers","2160
+meters",00:15:59s,"19/10/2020
+16h 16h"
+1,"3
+Kilometers","2248
+meters",00:11:28s,"19/10/2020
+15h 15h"
+2,"5
+Kilometers","2164
+meters",00:23:54s,"19/10/2020
+14h 15h"
+3,"5
+Kilometers","2171
+meters",00:21:38s,"19/10/2020
+14h 15h"
+4,"3
+Kilometers","2254
+meters",00:13:10s,"19/10/2020
+14h 14h"
+5,"3
+Kilometers","2161
+meters",00:15:25s,"19/10/2020
+14h 14h"
+6,"7
+Kilometers","2164
+meters",00:17:07s,"19/10/2020
+13h 14h"
+7,"5
+Kilometers","2159
+meters",00:44:48s,"19/10/2020
+12h 13h"
+8,"7
+Kilometers","2164
+meters",00:15:25s,"19/10/2020
+12h 13h"
+9,"6
+Kilometers","2173
+meters",00:14:17s,"19/10/2020
+12h 13h"
+10,"3
+Kilometers","2163
+meters",00:10:54s,"19/10/2020
+12h 12h"
+11,"4
+Kilometers","2076
+meters",00:14:17s,"19/10/2020
+11h 11h"
+12,"5
+Kilometers","2269
+meters",00:27:03s,"18/10/2020
+15h 16h"
+13,"4
+Kilometers","2316
+meters",00:30:40s,"18/10/2020
+16h 16h"
+14,"4
+Kilometers","2296
+meters",00:18:48s,"18/10/2020
+14h 14h"
+15,"8
+Kilometers","2266
+meters",01:00:04s,"18/10/2020
+14h 15h"
+16,"7
+Kilometers","2188
+meters",00:25:37s,"18/10/2020
+14h 15h"
+17,"11
+Kilometers","2195
+meters",01:05:43s,"18/10/2020
+14h 16h"
+18,"13
+Kilometers","2340
+meters",01:18:09s,"18/10/2020
+14h 16h"
+19,"11
+Kilometers","2319
+meters",01:19:04s,"18/10/2020
+13h 14h"
+0,,,,
+1,,,,
+2,,,,
+3,,,,
+4,,,,
+5,,,,
+6,,,,
+7,,,,
+8,,,,
+9,,,,
+10,,,,
+11,,,,
+12,,,,
+13,,,,
+14,,,,
+15,,,,
+16,,,,
+17,,,,
+18,,,,
+19,,,,
+0,"18
+Kilometers","2270
+meters",01:21:20s,"18/10/2020
+13h 15h"
+1,"14
+Kilometers","2348
+meters",00:56:47s,"18/10/2020
+13h 14h"
+2,"3
+Kilometers","2165
+meters",00:12:02s,"18/10/2020
+12h 13h"
+3,"25
+Kilometers","2284
+meters",02:35:00s,"18/10/2020
+13h 16h"
+4,"22
+Kilometers","2252
+meters",01:19:47s,"18/10/2020
+12h 13h"
+5,"18
+Kilometers","2160
+meters",01:46:24s,"18/10/2020
+13h 14h"
+6,"55
+Kilometers","2496
+meters",03:42:48s,"18/10/2020
+12h 16h"
+7,"9
+Kilometers","2158
+meters",00:30:40s,"18/10/2020
+12h 13h"
+8,"6
+Kilometers","2158
+meters",00:34:04s,"18/10/2020
+12h 13h"
+9,"4
+Kilometers","2171
+meters",00:18:15s,"18/10/2020
+12h 13h"
+10,"7
+Kilometers","2156
+meters",00:34:38s,"18/10/2020
+11h 11h"
+11,"4
+Kilometers","2151
+meters",00:17:07s,"17/10/2020
+17h 17h"
+12,"4
+Kilometers","2159
+meters",00:10:20s,"17/10/2020
+16h 16h"
+13,"6
+Kilometers","2150
+meters",00:20:30s,"17/10/2020
+16h 17h"
+14,"4
+Kilometers","2162
+meters",00:18:15s,"17/10/2020
+16h 16h"
+15,"12
+Kilometers","2168
+meters",00:36:03s,"17/10/2020
+16h 16h"
+16,"4
+Kilometers","2160
+meters",00:11:28s,"17/10/2020
+14h 14h"
+17,"5
+Kilometers","2320
+meters",00:34:38s,"17/10/2020
+14h 15h"
+18,"13
+Kilometers","2358
+meters",01:22:48s,"17/10/2020
+14h 15h"
+19,"3
+Kilometers","2273
+meters",00:18:48s,"17/10/2020
+14h 14h"
+0,"25
+Kilometers","2370
+meters",02:02:36s,"17/10/2020
+14h 16h"
+1,"36
+Kilometers","2355
+meters",02:05:00s,"17/10/2020
+14h 16h"
+2,"8
+Kilometers","2295
+meters",00:48:15s,"17/10/2020
+14h 15h"
+3,"5
+Kilometers","2168
+meters",00:17:07s,"17/10/2020
+14h 14h"
+4,"23
+Kilometers","2353
+meters",01:44:59s,"17/10/2020
+14h 15h"
+5,"17
+Kilometers","2337
+meters",01:28:54s,"17/10/2020
+13h 14h"
+6,"26
+Kilometers","2351
+meters",02:04:35s,"17/10/2020
+14h 16h"
+7,"3
+Kilometers","2166
+meters",00:11:28s,"17/10/2020
+13h 13h"
+8,"4
+Kilometers","2160
+meters",00:15:25s,"17/10/2020
+12h 13h"
+9,"4
+Kilometers","2165
+meters",00:17:07s,"17/10/2020
+12h 12h"
+10,"4
+Kilometers","2163
+meters",00:11:28s,"16/10/2020
+16h 16h"
+11,"4
+Kilometers","2159
+meters",00:11:28s,"19/09/2020
+14h 14h"
+12,"15
+Kilometers","2619
+meters",01:07:58s,"18/09/2020
+17h 18h"
+13,"33
+Kilometers","3682
+meters",02:21:47s,"18/09/2020
+14h 17h"
+14,"40
+Kilometers","4013
+meters",02:52:32s,"18/09/2020
+13h 16h"
+15,"27
+Kilometers","3333
+meters",02:02:14s,"18/09/2020
+12h 14h"
+16,"14
+Kilometers","2808
+meters",01:14:26s,"17/09/2020
+13h 14h"
+17,"6
+Kilometers","2625
+meters",00:47:38s,"15/09/2020
+18h 18h"
+18,"12
+Kilometers","2740
+meters",01:00:04s,"15/09/2020
+15h 16h"
+19,"12
+Kilometers","2853
+meters",00:45:09s,"15/09/2020
+13h 13h"
+0,"13
+Kilometers","2763
+meters",00:48:46s,"15/09/2020
+12h 13h"
+1,"98
+Kilometers","4036
+meters",04:42:43s,"14/09/2020
+13h 18h"
+2,"103
+Kilometers","4114
+meters",04:47:15s,"14/09/2020
+13h 18h"
+3,"54
+Kilometers","3738
+meters",02:53:09s,"14/09/2020
+13h 16h"
+4,"27
+Kilometers","3169
+meters",02:02:54s,"14/09/2020
+13h 15h"
+5,"11
+Kilometers","2718
+meters",00:57:14s,"14/09/2020
+13h 14h"
+6,"11
+Kilometers","2155
+meters",00:31:48s,"14/09/2020
+11h 12h"
+7,"10
+Kilometers","2159
+meters",00:44:14s,"14/09/2020
+11h 12h"
+8,"7
+Kilometers","2410
+meters",00:36:20s,"13/09/2020
+16h 17h"
+9,"14
+Kilometers","2801
+meters",01:10:15s,"13/09/2020
+16h 17h"
+10,"11
+Kilometers","2901
+meters",00:53:17s,"13/09/2020
+14h 15h"
+11,"8
+Kilometers","2342
+meters",00:28:59s,"13/09/2020
+15h 16h"
+12,"12
+Kilometers","2768
+meters",00:41:59s,"13/09/2020
+15h 16h"
+13,"12
+Kilometers","3014
+meters",00:58:56s,"13/09/2020
+15h 16h"
+14,"4
+Kilometers","2155
+meters",00:23:20s,"13/09/2020
+15h 15h"
+15,"9
+Kilometers","2350
+meters",00:37:28s,"13/09/2020
+14h 15h"
+16,"21
+Kilometers","2967
+meters",01:26:04s,"13/09/2020
+14h 15h"
+17,"5
+Kilometers","2160
+meters",00:32:56s,"13/09/2020
+13h 13h"
+18,"6
+Kilometers","2180
+meters",00:30:07s,"13/09/2020
+14h 14h"
+19,"3
+Kilometers","2161
+meters",00:17:41s,"13/09/2020
+13h 14h"
+0,"14
+Kilometers","3017
+meters",01:27:11s,"13/09/2020
+13h 15h"
+1,"4
+Kilometers","2158
+meters",01:06:17s,"13/09/2020
+13h 14h"
+2,"29
+Kilometers","3386
+meters",02:23:27s,"13/09/2020
+13h 16h"
+3,"3
+Kilometers","2161
+meters",00:22:46s,"13/09/2020
+13h 13h"
+4,"2
+Kilometers","2214
+meters",00:21:04s,"13/09/2020
+12h 12h"
+5,"4
+Kilometers","2145
+meters",00:18:15s,"13/09/2020
+12h 12h"
+6,"3
+Kilometers","2158
+meters",00:10:54s,"12/09/2020
+14h 15h"
+7,"4
+Kilometers","2176
+meters",00:23:54s,"12/09/2020
+15h 16h"
+8,"5
+Kilometers","2580
+meters",00:21:04s,"12/09/2020
+13h 13h"
+9,"17
+Kilometers","2584
+meters",01:11:20s,"12/09/2020
+14h 15h"
+10,"5
+Kilometers","2164
+meters",00:22:12s,"12/09/2020
+13h 14h"
+11,"6
+Kilometers","2168
+meters",00:22:46s,"12/09/2020
+13h 14h"
+12,"3
+Kilometers","2162
+meters",00:10:54s,"12/09/2020
+12h 12h"
+13,"7
+Kilometers","2164
+meters",00:15:39s,"12/09/2020
+12h 12h"
+14,"3
+Kilometers","2162
+meters",00:10:54s,"12/09/2020
+10h 11h"
+15,"5
+Kilometers","2159
+meters",00:17:07s,"12/09/2020
+11h 11h"
+16,"0
+Kilometers","2172
+meters",00:02:25s,"12/09/2020
+11h 11h"
+17,"0
+Kilometers","2176
+meters",00:02:59s,"12/09/2020
+10h 10h"
+18,"4
+Kilometers","2159
+meters",00:10:54s,"12/09/2020
+09h 09h"
+19,"4
+Kilometers","2165
+meters",00:19:23s,"11/09/2020
+15h 16h"
+0,"3
+Kilometers","2159
+meters",00:09:46s,"10/09/2020
+16h 16h"
+1,"3
+Kilometers","2152
+meters",00:12:02s,"10/09/2020
+14h 15h"
+2,"3
+Kilometers","2160
+meters",00:08:38s,"10/09/2020
+13h 13h"
+3,"3
+Kilometers","2152
+meters",00:12:37s,"10/09/2020
+12h 12h"
+4,"3
+Kilometers","2166
+meters",00:09:46s,"10/09/2020
+11h 11h"
+5,"3
+Kilometers","2104
+meters",00:12:02s,"10/09/2020
+09h 10h"
+6,"8
+Kilometers","2292
+meters",00:26:04s,"07/09/2020
+17h 17h"
+7,"4
+Kilometers","2160
+meters",00:12:02s,"07/09/2020
+16h 16h"
+8,"4
+Kilometers","2161
+meters",00:10:56s,"07/09/2020
+15h 15h"
+9,"17
+Kilometers","2540
+meters",01:04:35s,"07/09/2020
+14h 15h"
+10,"0
+Kilometers","2198
+meters",00:04:41s,"07/09/2020
+14h 14h"
+11,"7
+Kilometers","2376
+meters",00:37:13s,"07/09/2020
+13h 13h"
+12,"9
+Kilometers","2347
+meters",00:35:46s,"07/09/2020
+12h 13h"
+13,"4
+Kilometers","2159
+meters",00:14:17s,"06/09/2020
+15h 16h"
+14,"5
+Kilometers","2165
+meters",00:24:28s,"06/09/2020
+15h 15h"
+15,"5
+Kilometers","2430
+meters",00:35:12s,"05/09/2020
+16h 17h"
+16,"10
+Kilometers","2608
+meters",01:13:37s,"05/09/2020
+16h 17h"
+17,"22
+Kilometers","3391
+meters",02:41:47s,"05/09/2020
+16h 19h"
+18,"16
+Kilometers","3091
+meters",01:48:40s,"05/09/2020
+14h 16h"
+19,"23
+Kilometers","2834
+meters",01:18:20s,"05/09/2020
+14h 16h"
+0,"7
+Kilometers","2108
+meters",01:11:56s,"05/09/2020
+13h 14h"
+1,"7
+Kilometers","2108
+meters",01:11:56s,"05/09/2020
+13h 14h"
+2,"13
+Kilometers","2905
+meters",02:12:58s,"05/09/2020
+13h 15h"
+3,"7
+Kilometers","2509
+meters",01:32:17s,"05/09/2020
+13h 14h"
+4,"33
+Kilometers","2962
+meters",02:52:25s,"05/09/2020
+12h 15h"
+5,"6
+Kilometers","2281
+meters",00:20:07s,"04/09/2020
+16h 16h"
+6,"4
+Kilometers","2165
+meters",00:19:37s,"04/09/2020
+16h 16h"
+7,"12
+Kilometers","2536
+meters",00:33:30s,"04/09/2020
+15h 15h"
+8,"4
+Kilometers","2163
+meters",00:13:54s,"04/09/2020
+14h 14h"
+9,"7
+Kilometers","2167
+meters",00:15:09s,"04/09/2020
+13h 13h"
+10,"7
+Kilometers","2156
+meters",00:15:45s,"04/09/2020
+11h 11h"
+11,"3
+Kilometers","2285
+meters",00:10:54s,"04/09/2020
+10h 10h"
+12,"5
+Kilometers","2282
+meters",01:02:20s,"03/09/2020
+17h 18h"
+13,"7
+Kilometers","2490
+meters",00:33:37s,"03/09/2020
+16h 16h"
+14,"6
+Kilometers","2181
+meters",00:19:46s,"03/09/2020
+13h 14h"
+15,"6
+Kilometers","2172
+meters",00:20:27s,"03/09/2020
+11h 11h"
+16,"10
+Kilometers","2678
+meters",01:06:31s,"02/09/2020
+13h 14h"
+17,"9
+Kilometers","2438
+meters",00:45:22s,"02/09/2020
+12h 13h"
+18,"3
+Kilometers","2157
+meters",00:15:25s,"02/09/2020
+11h 11h"
+19,"4
+Kilometers","2164
+meters",00:30:40s,"01/09/2020
+15h 16h"
+0,"10
+Kilometers","2494
+meters",01:35:03s,"01/09/2020
+15h 16h"
+1,"6
+Kilometers","2617
+meters",02:01:06s,"01/09/2020
+14h 16h"
+2,"12
+Kilometers","2387
+meters",00:56:40s,"01/09/2020
+12h 13h"
+3,"4
+Kilometers","2157
+meters",00:14:17s,"01/09/2020
+13h 13h"
+4,"10
+Kilometers","2106
+meters",00:36:10s,"01/09/2020
+13h 13h"
+5,"4
+Kilometers","2156
+meters",00:30:40s,"01/09/2020
+11h 12h"
+6,"7
+Kilometers","2167
+meters",00:19:59s,"01/09/2020
+10h 11h"
+7,"3
+Kilometers","2095
+meters",00:17:07s,"01/09/2020
+10h 10h"
+8,"5
+Kilometers","2164
+meters",00:16:10s,"31/08/2020
+16h 16h"
+9,"7
+Kilometers","2166
+meters",00:15:51s,"31/08/2020
+14h 14h"
+10,"6
+Kilometers","2151
+meters",00:15:19s,"31/08/2020
+12h 12h"
+11,"8
+Kilometers","2151
+meters",00:26:09s,"27/08/2020
+12h 13h"
+12,"3
+Kilometers","2162
+meters",00:08:38s,"24/08/2020
+11h 11h"
+13,"19
+Kilometers","2287
+meters",01:11:22s,"24/08/2020
+10h 11h"
+14,"3
+Kilometers","2169
+meters",00:15:59s,"23/08/2020
+10h 10h"
+15,"6
+Kilometers","2166
+meters",00:19:35s,"21/08/2020
+18h 18h"
+16,"5
+Kilometers","2121
+meters",00:16:15s,"21/08/2020
+13h 14h"
+17,"4
+Kilometers","2159
+meters",00:11:28s,"21/08/2020
+12h 12h"
+18,"6
+Kilometers","2159
+meters",00:42:33s,"21/08/2020
+10h 11h"
+19,"5
+Kilometers","2167
+meters",00:16:05s,"21/08/2020
+11h 11h"
+0,"6
+Kilometers","2165
+meters",00:16:33s,"21/08/2020
+11h 11h"
+1,"21
+Kilometers","2872
+meters",01:40:45s,"20/08/2020
+17h 19h"
+2,"5
+Kilometers","2198
+meters",00:25:02s,"20/08/2020
+16h 16h"
+3,"5
+Kilometers","2911
+meters",00:48:12s,"20/08/2020
+13h 14h"
+4,"5
+Kilometers","2171
+meters",00:19:17s,"20/08/2020
+14h 14h"
+5,"0
+Kilometers","2182
+meters",00:01:24s,"20/08/2020
+14h 14h"
+6,"6
+Kilometers","2161
+meters",00:18:48s,"20/08/2020
+13h 14h"
+7,"4
+Kilometers","2141
+meters",00:16:23s,"20/08/2020
+12h 12h"
+8,"6
+Kilometers","2160
+meters",00:15:59s,"20/08/2020
+11h 12h"
+9,"11
+Kilometers","2629
+meters",00:31:15s,"19/08/2020
+15h 16h"
+10,"6
+Kilometers","2158
+meters",00:17:07s,"19/08/2020
+14h 15h"
+11,"6
+Kilometers","2162
+meters",00:15:25s,"19/08/2020
+12h 12h"
+12,"4
+Kilometers","2482
+meters",00:13:43s,"18/08/2020
+14h 15h"
+13,"6
+Kilometers","2166
+meters",00:17:41s,"18/08/2020
+13h 14h"
+14,"6
+Kilometers","2161
+meters",00:14:51s,"18/08/2020
+12h 12h"
+15,"5
+Kilometers","2143
+meters",00:17:07s,"18/08/2020
+10h 10h"
+16,"6
+Kilometers","2170
+meters",00:16:33s,"17/08/2020
+12h 12h"
+17,"6
+Kilometers","2157
+meters",00:15:25s,"17/08/2020
+10h 11h"
+18,"5
+Kilometers","2156
+meters",00:16:33s,"16/08/2020
+14h 15h"
+19,"6
+Kilometers","2210
+meters",00:28:25s,"16/08/2020
+14h 15h"
+0,"7
+Kilometers","2152
+meters",00:29:31s,"16/08/2020
+12h 12h"
+1,"4
+Kilometers","2409
+meters",00:21:04s,"15/08/2020
+17h 18h"
+2,"15
+Kilometers","2801
+meters",01:17:02s,"15/08/2020
+15h 16h"
+3,"14
+Kilometers","2819
+meters",00:50:27s,"15/08/2020
+13h 14h"
+4,"19
+Kilometers","2663
+meters",01:35:54s,"15/08/2020
+13h 15h"
+5,"5
+Kilometers","2161
+meters",00:15:59s,"14/08/2020
+10h 10h"
+6,"5
+Kilometers","2221
+meters",00:50:28s,"12/08/2020
+14h 15h"
+7,"7
+Kilometers","2266
+meters",00:17:33s,"12/08/2020
+14h 14h"
+8,"6
+Kilometers","2167
+meters",00:15:25s,"12/08/2020
+12h 13h"
+9,"5
+Kilometers","2359
+meters",00:17:08s,"12/08/2020
+12h 12h"
+10,"0
+Kilometers","2160
+meters",00:01:18s,"12/08/2020
+10h 10h"
+11,"4
+Kilometers","2171
+meters",00:11:28s,"11/08/2020
+12h 12h"
+12,"6
+Kilometers","2165
+meters",00:17:07s,"11/08/2020
+12h 13h"
+13,"5
+Kilometers","2451
+meters",00:30:40s,"11/08/2020
+10h 11h"
+14,"6
+Kilometers","2160
+meters",00:15:25s,"11/08/2020
+10h 11h"
+15,"5
+Kilometers","2161
+meters",00:10:54s,"10/08/2020
+12h 12h"
+16,"17
+Kilometers","3229
+meters",00:56:02s,"09/08/2020
+17h 18h"
+17,"9
+Kilometers","2333
+meters",01:08:33s,"09/08/2020
+17h 18h"
+18,"4
+Kilometers","2449
+meters",00:25:37s,"09/08/2020
+15h 16h"
+19,"30
+Kilometers","3485
+meters",02:57:37s,"09/08/2020
+14h 17h"
+0,"26
+Kilometers","3600
+meters",02:42:21s,"09/08/2020
+14h 17h"
+1,"6
+Kilometers","2388
+meters",00:30:40s,"09/08/2020
+12h 12h"
+2,"5
+Kilometers","2168
+meters",00:15:59s,"09/08/2020
+13h 13h"
+3,"3
+Kilometers","2168
+meters",00:10:54s,"09/08/2020
+10h 10h"
+4,"3
+Kilometers","2137
+meters",00:09:12s,"09/08/2020
+09h 09h"
+5,"3
+Kilometers","2023
+meters",00:13:43s,"08/08/2020
+19h 19h"
+6,"15
+Kilometers","3265
+meters",01:00:04s,"08/08/2020
+16h 17h"
+7,"8
+Kilometers","2583
+meters",01:08:33s,"08/08/2020
+16h 17h"
+8,"14
+Kilometers","3060
+meters",00:49:32s,"08/08/2020
+15h 16h"
+9,"11
+Kilometers","2426
+meters",00:38:37s,"08/08/2020
+15h 15h"
+10,"4
+Kilometers","2167
+meters",00:19:23s,"08/08/2020
+14h 15h"
+11,"26
+Kilometers","3160
+meters",01:46:06s,"08/08/2020
+14h 16h"
+12,"15
+Kilometers","2657
+meters",01:11:56s,"08/08/2020
+13h 14h"
+13,"12
+Kilometers","2748
+meters",00:49:53s,"08/08/2020
+14h 15h"
+14,"3
+Kilometers","2169
+meters",00:11:28s,"08/08/2020
+11h 11h"
+15,"3
+Kilometers","1989
+meters",00:10:20s,"08/08/2020
+10h 10h"
+16,"20
+Kilometers","3536
+meters",02:05:03s,"07/08/2020
+15h 17h"
+17,"10
+Kilometers","2393
+meters",00:28:59s,"07/08/2020
+16h 16h"
+18,"14
+Kilometers","2873
+meters",01:08:33s,"07/08/2020
+13h 14h"
+19,"22
+Kilometers","2938
+meters",02:12:07s,"07/08/2020
+13h 16h"
+0,"4
+Kilometers","2553
+meters",00:26:43s,"07/08/2020
+12h 12h"
+1,"3
+Kilometers","2155
+meters",00:11:28s,"07/08/2020
+10h 10h"
+2,"5
+Kilometers","2162
+meters",00:18:15s,"06/08/2020
+19h 19h"
+3,"11
+Kilometers","2521
+meters",01:09:32s,"06/08/2020
+17h 18h"
+4,"10
+Kilometers","2365
+meters",01:13:37s,"06/08/2020
+14h 15h"
+5,"13
+Kilometers","2329
+meters",01:59:39s,"06/08/2020
+14h 16h"
+6,"3
+Kilometers","2162
+meters",00:12:02s,"06/08/2020
+11h 12h"
+7,"3
+Kilometers","2165
+meters",00:10:54s,"06/08/2020
+10h 10h"
+8,"6
+Kilometers","2165
+meters",00:23:54s,"05/08/2020
+17h 18h"
+9,"10
+Kilometers","2432
+meters",00:40:17s,"05/08/2020
+16h 17h"
+10,"12
+Kilometers","2256
+meters",00:48:12s,"05/08/2020
+17h 18h"
+11,"4
+Kilometers","2157
+meters",00:23:20s,"05/08/2020
+13h 13h"
+12,"4
+Kilometers","2164
+meters",00:18:15s,"05/08/2020
+10h 10h"
+13,"12
+Kilometers","2584
+meters",00:40:03s,"01/08/2020
+11h 11h"
+14,"43
+Kilometers","4466
+meters",01:46:39s,"31/07/2020
+14h 16h"
+15,"48
+Kilometers","4328
+meters",02:10:42s,"31/07/2020
+14h 16h"
+16,"39
+Kilometers","4710
+meters",02:12:06s,"31/07/2020
+13h 16h"
+17,"29
+Kilometers","3673
+meters",03:04:11s,"31/07/2020
+13h 16h"
+18,"29
+Kilometers","3673
+meters",03:04:11s,"31/07/2020
+13h 16h"
+19,"5
+Kilometers","2661
+meters",00:25:35s,"30/07/2020
+13h 14h"
+0,"6
+Kilometers","2171
+meters",00:20:01s,"29/07/2020
+15h 16h"
+1,"8
+Kilometers","2161
+meters",00:37:31s,"29/07/2020
+13h 14h"
+2,"5
+Kilometers","2225
+meters",00:16:33s,"27/07/2020
+17h 17h"
+3,"7
+Kilometers","2160
+meters",00:19:56s,"26/07/2020
+12h 13h"
+4,"0
+Kilometers","2161
+meters",00:01:18s,"26/07/2020
+12h 12h"
+5,"3
+Kilometers","2170
+meters",00:16:33s,"25/07/2020
+18h 18h"
+6,"4
+Kilometers","2164
+meters",00:17:41s,"25/07/2020
+17h 17h"
+7,"13
+Kilometers","3019
+meters",01:00:38s,"25/07/2020
+15h 16h"
+8,"8
+Kilometers","2577
+meters",00:31:48s,"25/07/2020
+12h 13h"
+9,"6
+Kilometers","2484
+meters",00:30:07s,"23/07/2020
+13h 14h"
+10,"10
+Kilometers","2532
+meters",01:16:01s,"23/07/2020
+13h 14h"
+11,"11
+Kilometers","2538
+meters",01:18:28s,"23/07/2020
+13h 14h"
+12,"8
+Kilometers","2165
+meters",00:29:33s,"22/07/2020
+13h 14h"
+13,"9
+Kilometers","2134
+meters",00:43:07s,"22/07/2020
+11h 12h"
+14,"6
+Kilometers","2161
+meters",00:32:22s,"20/07/2020
+16h 16h"
+15,"39
+Kilometers","4343
+meters",02:55:55s,"20/07/2020
+14h 17h"
+16,"4
+Kilometers","2266
+meters",00:20:09s,"20/07/2020
+13h 13h"
+17,"6
+Kilometers","2160
+meters",00:16:33s,"20/07/2020
+12h 12h"
+18,"26
+Kilometers","2972
+meters",01:50:55s,"20/07/2020
+11h 13h"
+19,"6
+Kilometers","2252
+meters",00:17:57s,"19/07/2020
+15h 15h"
+0,"5
+Kilometers","2256
+meters",00:23:20s,"19/07/2020
+16h 16h"
+1,"14
+Kilometers","2695
+meters",01:14:45s,"18/07/2020
+16h 17h"
+2,"22
+Kilometers","2905
+meters",01:26:04s,"14/07/2020
+12h 13h"
+3,"11
+Kilometers","2162
+meters",00:27:51s,"14/07/2020
+10h 10h"
+4,"6
+Kilometers","2163
+meters",00:21:04s,"13/07/2020
+11h 12h"
+5,"2
+Kilometers","1965
+meters",00:13:43s,"13/07/2020
+10h 10h"
+6,"4
+Kilometers","2162
+meters",00:28:59s,"12/07/2020
+17h 18h"
+7,"4
+Kilometers","2171
+meters",00:22:12s,"12/07/2020
+16h 16h"
+8,"16
+Kilometers","2674
+meters",01:07:58s,"12/07/2020
+15h 16h"
+9,"6
+Kilometers","2573
+meters",00:44:48s,"12/07/2020
+15h 16h"
+10,"6
+Kilometers","2412
+meters",00:27:51s,"12/07/2020
+15h 15h"
+11,"8
+Kilometers","2593
+meters",00:38:37s,"12/07/2020
+14h 15h"
+12,"6
+Kilometers","2159
+meters",00:15:57s,"12/07/2020
+13h 14h"
+13,"5
+Kilometers","2607
+meters",00:23:54s,"08/07/2020
+16h 17h"
+14,"4
+Kilometers","2162
+meters",00:18:48s,"08/07/2020
+15h 15h"
+15,"6
+Kilometers","2167
+meters",00:22:46s,"08/07/2020
+13h 13h"
+16,"4
+Kilometers","2179
+meters",00:14:51s,"08/07/2020
+11h 12h"
+17,"3
+Kilometers","2173
+meters",00:11:28s,"07/07/2020
+16h 16h"
+18,"1
+Kilometers","2258
+meters",00:07:31s,"07/07/2020
+16h 16h"
+19,"11
+Kilometers","2672
+meters",00:44:53s,"05/07/2020
+16h 17h"
+0,"16
+Kilometers","3006
+meters",01:03:27s,"05/07/2020
+14h 15h"
+1,"6
+Kilometers","2474
+meters",00:31:51s,"05/07/2020
+13h 13h"
+2,"4
+Kilometers","2148
+meters",00:14:38s,"04/07/2020
+18h 18h"
+3,"7
+Kilometers","2160
+meters",00:31:39s,"04/07/2020
+15h 15h"
+4,"5
+Kilometers","2170
+meters",00:17:41s,"30/06/2020
+12h 13h"
+5,"7
+Kilometers","2166
+meters",00:19:56s,"28/06/2020
+15h 15h"
+6,"3
+Kilometers","2160
+meters",00:15:59s,"28/06/2020
+14h 14h"
+7,"3
+Kilometers","2164
+meters",00:12:02s,"28/06/2020
+11h 12h"
+8,"5
+Kilometers","2164
+meters",00:17:07s,"28/06/2020
+10h 10h"
+9,"4
+Kilometers","2158
+meters",00:14:51s,"28/06/2020
+10h 11h"
+10,"3
+Kilometers","2168
+meters",00:10:54s,"28/06/2020
+10h 10h"
+11,"4
+Kilometers","2208
+meters",00:21:04s,"27/06/2020
+19h 19h"
+12,"4
+Kilometers","2170
+meters",00:12:37s,"27/06/2020
+11h 11h"
+13,"0
+Kilometers","2176
+meters",00:02:59s,"27/06/2020
+11h 11h"
+14,"18
+Kilometers","3037
+meters",01:37:22s,"26/06/2020
+12h 13h"
+15,"5
+Kilometers","2164
+meters",00:16:33s,"25/06/2020
+19h 19h"
+16,"5
+Kilometers","2617
+meters",00:30:07s,"25/06/2020
+10h 11h"
+17,"6
+Kilometers","2159
+meters",00:23:54s,"24/06/2020
+18h 19h"
+18,"20
+Kilometers","3063
+meters",01:15:19s,"24/06/2020
+12h 13h"
+19,"2
+Kilometers","2578
+meters",00:33:30s,"24/06/2020
+10h 11h"
+0,"5
+Kilometers","2277
+meters",00:48:20s,"23/06/2020
+17h 18h"
+1,"30
+Kilometers","3125
+meters",02:32:11s,"23/06/2020
+14h 17h"
+2,"16
+Kilometers","2887
+meters",00:57:14s,"23/06/2020
+14h 15h"
+3,"8
+Kilometers","2445
+meters",01:02:53s,"23/06/2020
+10h 11h"
+4,"7
+Kilometers","2234
+meters",00:23:54s,"21/06/2020
+17h 18h"
+5,"12
+Kilometers","2738
+meters",00:43:40s,"21/06/2020
+17h 18h"
+6,"8
+Kilometers","2750
+meters",00:39:51s,"21/06/2020
+16h 17h"
+7,"6
+Kilometers","2462
+meters",00:31:15s,"21/06/2020
+16h 16h"
+8,"7
+Kilometers","2612
+meters",00:27:08s,"21/06/2020
+14h 15h"
+9,"6
+Kilometers","2511
+meters",00:23:54s,"21/06/2020
+14h 15h"
+10,"6
+Kilometers","2340
+meters",00:27:17s,"21/06/2020
+14h 14h"
+11,"6
+Kilometers","2675
+meters",00:29:49s,"21/06/2020
+13h 14h"
+12,"5
+Kilometers","2361
+meters",00:22:12s,"21/06/2020
+11h 12h"
+13,"5
+Kilometers","2166
+meters",00:16:33s,"21/06/2020
+10h 10h"
+14,"4
+Kilometers","2152
+meters",00:15:00s,"21/06/2020
+10h 11h"
+15,"14
+Kilometers","2717
+meters",00:45:22s,"20/06/2020
+15h 16h"
+16,"6
+Kilometers","2249
+meters",00:20:17s,"20/06/2020
+13h 13h"
+17,"7
+Kilometers","2368
+meters",00:35:46s,"20/06/2020
+12h 13h"
+18,"4
+Kilometers","2159
+meters",00:13:43s,"18/06/2020
+10h 10h"
+19,"6
+Kilometers","2159
+meters",00:18:48s,"14/06/2020
+16h 17h"
+0,"4
+Kilometers","2151
+meters",00:17:07s,"14/06/2020
+13h 14h"
+1,"4
+Kilometers","2155
+meters",00:13:10s,"14/06/2020
+12h 12h"
+2,"3
+Kilometers","2166
+meters",00:14:17s,"13/06/2020
+10h 11h"
+3,"4
+Kilometers","2181
+meters",00:17:07s,"01/06/2020
+12h 12h"
+4,"6
+Kilometers","2285
+meters",00:25:02s,"01/06/2020
+13h 13h"
+5,"5
+Kilometers","2415
+meters",00:34:38s,"31/05/2020
+14h 14h"
+6,"50
+Kilometers","3173
+meters",03:04:25s,"29/05/2020
+13h 16h"
+7,"62
+Kilometers","4042
+meters",04:20:07s,"29/05/2020
+13h 17h"
+8,"24
+Kilometers","3507
+meters",01:32:17s,"27/05/2020
+13h 14h"
+9,"39
+Kilometers","3720
+meters",02:55:55s,"21/05/2020
+13h 15h"
+10,"59
+Kilometers","3377
+meters",03:37:44s,"21/05/2020
+12h 16h"
+11,"14
+Kilometers","2419
+meters",01:02:53s,"18/05/2020
+13h 14h"
+12,"8
+Kilometers","2477
+meters",00:21:38s,"17/05/2020
+14h 15h"
+13,"10
+Kilometers","2483
+meters",00:31:48s,"17/05/2020
+14h 15h"
+14,"10
+Kilometers","2447
+meters",00:36:20s,"17/05/2020
+14h 15h"
+15,"10
+Kilometers","2457
+meters",00:32:33s,"17/05/2020
+14h 15h"
+16,"10
+Kilometers","2528
+meters",00:34:38s,"17/05/2020
+14h 15h"
+17,"1
+Kilometers","2404
+meters",00:10:20s,"17/05/2020
+14h 14h"
+18,"2
+Kilometers","2528
+meters",00:21:38s,"17/05/2020
+13h 14h"
+19,"1
+Kilometers","2329
+meters",00:06:56s,"17/05/2020
+13h 13h"
+0,"2
+Kilometers","2404
+meters",00:25:37s,"17/05/2020
+13h 14h"
+1,"9
+Kilometers","2255
+meters",00:26:09s,"14/05/2020
+14h 14h"
+2,"6
+Kilometers","2342
+meters",00:23:20s,"10/05/2020
+15h 15h"
+3,"6
+Kilometers","2186
+meters",00:16:33s,"11/03/2020
+12h 13h"
+4,"3
+Kilometers","2174
+meters",00:10:20s,"11/03/2020
+11h 11h"
+5,"3
+Kilometers","2181
+meters",00:10:20s,"11/03/2020
+10h 10h"
+6,"4
+Kilometers","2176
+meters",00:12:02s,"08/03/2020
+17h 17h"
+7,"5
+Kilometers","2187
+meters",00:25:37s,"08/03/2020
+17h 17h"
+8,"3
+Kilometers","2178
+meters",00:10:20s,"08/03/2020
+16h 16h"
+9,"4
+Kilometers","2168
+meters",00:10:20s,"08/03/2020
+15h 15h"
+10,"4
+Kilometers","2178
+meters",00:19:23s,"08/03/2020
+15h 16h"
+11,"4
+Kilometers","2174
+meters",00:19:56s,"08/03/2020
+13h 14h"
+12,"4
+Kilometers","2173
+meters",00:14:51s,"08/03/2020
+12h 12h"
+13,"4
+Kilometers","2175
+meters",00:12:02s,"08/03/2020
+10h 11h"
+14,"3
+Kilometers","2172
+meters",00:14:51s,"04/03/2020
+15h 15h"
+15,"9
+Kilometers","2187
+meters",00:21:33s,"28/02/2020
+15h 15h"
+16,"4
+Kilometers","2174
+meters",00:17:07s,"22/02/2020
+15h 15h"
+17,"6
+Kilometers","2178
+meters",00:17:07s,"20/02/2020
+17h 17h"
+18,"4
+Kilometers","2178
+meters",00:10:54s,"20/02/2020
+16h 16h"
+19,"3
+Kilometers","2166
+meters",00:10:20s,"20/02/2020
+15h 16h"
+0,"4
+Kilometers","2179
+meters",00:12:02s,"20/02/2020
+15h 15h"
+1,"4
+Kilometers","2178
+meters",00:11:28s,"20/02/2020
+14h 14h"
+2,"4
+Kilometers","2184
+meters",00:10:54s,"20/02/2020
+13h 13h"
+3,"4
+Kilometers","2182
+meters",00:11:28s,"20/02/2020
+12h 12h"
+4,"4
+Kilometers","2182
+meters",00:10:20s,"20/02/2020
+11h 11h"
+5,"4
+Kilometers","2179
+meters",00:10:54s,"20/02/2020
+10h 10h"
+6,"4
+Kilometers","2180
+meters",00:10:20s,"20/02/2020
+09h 09h"
+7,"8
+Kilometers","2262
+meters",00:44:48s,"15/02/2020
+16h 17h"
+8,"4
+Kilometers","2181
+meters",00:31:15s,"15/02/2020
+14h 15h"
+9,"7
+Kilometers","2532
+meters",00:29:32s,"08/02/2020
+16h 17h"
+10,"0
+Kilometers","2182
+meters",00:01:18s,"08/02/2020
+14h 14h"
+11,"10
+Kilometers","2566
+meters",00:45:41s,"08/02/2020
+15h 16h"
+12,"4
+Kilometers","2414
+meters",00:32:56s,"08/02/2020
+13h 14h"
+13,"4
+Kilometers","2173
+meters",00:12:02s,"07/02/2020
+16h 16h"
+14,"1
+Kilometers","2248
+meters",00:15:59s,"07/02/2020
+15h 16h"
+15,"1
+Kilometers","2357
+meters",00:17:41s,"07/02/2020
+15h 16h"
+16,"1
+Kilometers","2346
+meters",00:30:40s,"07/02/2020
+15h 16h"
+17,"4
+Kilometers","2172
+meters",00:14:17s,"07/02/2020
+15h 15h"
+18,"1
+Kilometers","2322
+meters",00:13:43s,"07/02/2020
+15h 15h"
+19,"1
+Kilometers","2336
+meters",00:17:41s,"07/02/2020
+15h 15h"
+0,"4
+Kilometers","2126
+meters",00:26:09s,"07/02/2020
+15h 15h"
+1,"1
+Kilometers","2331
+meters",00:28:59s,"07/02/2020
+15h 15h"
+2,"1
+Kilometers","2283
+meters",00:13:10s,"07/02/2020
+14h 15h"
+3,"9
+Kilometers","2313
+meters",00:28:40s,"07/02/2020
+15h 16h"
+4,"3
+Kilometers","2180
+meters",00:11:28s,"07/02/2020
+14h 14h"
+5,"7
+Kilometers","2292
+meters",00:34:06s,"07/02/2020
+14h 15h"
+6,"1
+Kilometers","2320
+meters",00:18:15s,"07/02/2020
+14h 14h"
+7,"4
+Kilometers","2179
+meters",00:10:54s,"07/02/2020
+13h 13h"
+8,"6
+Kilometers","2183
+meters",00:21:44s,"07/02/2020
+13h 13h"
+9,"4
+Kilometers","2177
+meters",00:10:20s,"07/02/2020
+12h 13h"
+10,"3
+Kilometers","2173
+meters",00:12:02s,"07/02/2020
+12h 12h"
+11,"4
+Kilometers","2179
+meters",00:10:20s,"07/02/2020
+10h 11h"
+12,"5
+Kilometers","2024
+meters",00:15:51s,"23/01/2020
+12h 13h"
+13,"1
+Kilometers","2178
+meters",00:03:47s,"21/01/2020
+12h 12h"
+14,"4
+Kilometers","2172
+meters",00:11:28s,"21/01/2020
+11h 11h"
+15,"4
+Kilometers","2178
+meters",00:09:12s,"21/01/2020
+12h 12h"
+16,"9
+Kilometers","2176
+meters",00:19:46s,"15/01/2020
+15h 15h"
+17,"4
+Kilometers","2180
+meters",00:09:12s,"13/01/2020
+13h 14h"
+18,"9
+Kilometers","2181
+meters",00:20:46s,"12/01/2020
+16h 16h"
+19,"5
+Kilometers","2179
+meters",00:15:25s,"12/01/2020
+15h 15h"
+0,"4
+Kilometers","2178
+meters",00:21:38s,"12/01/2020
+15h 15h"
+1,"5
+Kilometers","2177
+meters",00:45:22s,"11/01/2020
+15h 16h"
+2,"10
+Kilometers","2058
+meters",00:44:16s,"11/01/2020
+15h 15h"
+3,"1
+Kilometers","2453
+meters",00:25:02s,"08/01/2020
+14h 15h"
+4,"4
+Kilometers","2187
+meters",00:17:07s,"08/01/2020
+13h 13h"
+5,"4
+Kilometers","2031
+meters",00:13:43s,"08/01/2020
+12h 12h"
+6,"4
+Kilometers","2031
+meters",00:13:43s,"08/01/2020
+12h 12h"
+7,"4
+Kilometers","2181
+meters",00:11:28s,"07/01/2020
+17h 17h"
+8,"4
+Kilometers","2130
+meters",00:13:43s,"07/01/2020
+15h 16h"
+9,"5
+Kilometers","2278
+meters",00:23:20s,"07/01/2020
+14h 14h"
+10,"2
+Kilometers","2038
+meters",00:09:12s,"07/01/2020
+12h 12h"
+11,"3
+Kilometers","2178
+meters",00:09:12s,"07/01/2020
+10h 10h"
+12,"5
+Kilometers","2177
+meters",00:22:12s,"06/01/2020
+15h 16h"
+13,"13
+Kilometers","2361
+meters",00:55:14s,"06/01/2020
+15h 16h"
+14,"9
+Kilometers","2227
+meters",00:32:30s,"05/01/2020
+15h 15h"
+15,"5
+Kilometers","2178
+meters",00:18:15s,"05/01/2020
+14h 14h"
+16,"3
+Kilometers","2173
+meters",00:14:17s,"05/01/2020
+12h 12h"
+17,"3
+Kilometers","2176
+meters",00:11:28s,"05/01/2020
+11h 11h"
+18,"4
+Kilometers","2177
+meters",00:13:43s,"05/01/2020
+10h 10h"
+19,"11
+Kilometers","2130
+meters",00:30:49s,"02/01/2020
+14h 15h"
+0,"6
+Kilometers","2263
+meters",00:30:07s,"01/01/2020
+15h 16h"
+1,"3
+Kilometers","2178
+meters",00:22:46s,"30/12/2019
+16h 16h"
+2,"3
+Kilometers","2179
+meters",00:24:28s,"30/12/2019
+14h 15h"
+3,"4
+Kilometers","2172
+meters",00:18:48s,"29/12/2019
+14h 15h"
+4,"4
+Kilometers","2185
+meters",00:13:43s,"28/12/2019
+13h 13h"
+5,"4
+Kilometers","2123
+meters",00:13:43s,"25/12/2019
+15h 15h"
+6,"4
+Kilometers","2119
+meters",00:22:12s,"25/12/2019
+13h 14h"
+7,"4
+Kilometers","2175
+meters",00:13:43s,"25/12/2019
+12h 13h"
+8,"4
+Kilometers","2184
+meters",00:13:10s,"25/12/2019
+12h 12h"
+9,"4
+Kilometers","2178
+meters",00:13:43s,"18/12/2019
+15h 15h"
+10,"5
+Kilometers","2172
+meters",00:21:38s,"18/12/2019
+13h 14h"
+11,"4
+Kilometers","2344
+meters",00:17:07s,"18/12/2019
+12h 12h"
+12,"3
+Kilometers","2171
+meters",00:10:54s,"16/12/2019
+12h 12h"
+13,"3
+Kilometers","2175
+meters",00:10:20s,"15/12/2019
+16h 16h"
+14,"4
+Kilometers","2175
+meters",00:15:59s,"15/12/2019
+15h 15h"
+15,"4
+Kilometers","2137
+meters",00:14:51s,"15/12/2019
+13h 13h"
+16,"0
+Kilometers","2179
+meters",00:01:18s,"15/12/2019
+12h 12h"
+17,"0
+Kilometers","2182
+meters",00:01:18s,"15/12/2019
+11h 11h"
+18,"5
+Kilometers","2174
+meters",00:23:20s,"08/12/2019
+15h 15h"
+19,"7
+Kilometers","2178
+meters",00:21:04s,"08/12/2019
+15h 15h"
+0,"6
+Kilometers","2178
+meters",00:21:04s,"08/12/2019
+13h 14h"
+1,"4
+Kilometers","2280
+meters",00:23:20s,"08/12/2019
+12h 12h"
+2,"6
+Kilometers","2167
+meters",00:19:23s,"16/11/2019
+16h 17h"
+3,"2
+Kilometers","2438
+meters",00:10:54s,"16/11/2019
+16h 16h"
+4,"5
+Kilometers","2155
+meters",00:15:42s,"10/11/2019
+15h 15h"
+5,"5
+Kilometers","2167
+meters",00:36:25s,"10/11/2019
+14h 15h"
+6,"12
+Kilometers","2519
+meters",01:07:31s,"10/11/2019
+15h 16h"
+7,"5
+Kilometers","2537
+meters",00:19:44s,"10/11/2019
+14h 14h"
+8,"5
+Kilometers","2157
+meters",00:17:37s,"10/11/2019
+14h 14h"
+9,"0
+Kilometers","2173
+meters",00:00:36s,"10/11/2019
+14h 14h"
+10,"2
+Kilometers","2585
+meters",00:21:08s,"10/11/2019
+14h 14h"
+11,"2
+Kilometers","2429
+meters",00:13:10s,"10/11/2019
+13h 13h"
+12,"7
+Kilometers","2165
+meters",00:37:49s,"10/11/2019
+12h 13h"
+13,"7
+Kilometers","2165
+meters",00:37:49s,"10/11/2019
+12h 13h"
+14,"2
+Kilometers","2357
+meters",00:23:27s,"10/11/2019
+13h 14h"
+15,"13
+Kilometers","2154
+meters",00:35:46s,"09/11/2019
+14h 15h"
+16,"9
+Kilometers","2175
+meters",00:35:12s,"09/11/2019
+14h 15h"
+17,"13
+Kilometers","2450
+meters",01:04:01s,"09/11/2019
+14h 15h"
+18,"7
+Kilometers","2158
+meters",00:28:56s,"09/11/2019
+13h 14h"
+19,"6
+Kilometers","2155
+meters",00:30:07s,"09/11/2019
+12h 13h"
+0,"8
+Kilometers","2159
+meters",00:29:33s,"09/11/2019
+12h 13h"
+1,"3
+Kilometers","1954
+meters",00:15:19s,"09/11/2019
+12h 12h"
+2,"4
+Kilometers","2154
+meters",00:18:48s,"09/11/2019
+11h 11h"
+3,"4
+Kilometers","2160
+meters",00:18:48s,"09/11/2019
+11h 11h"
+4,"9
+Kilometers","2251
+meters",00:23:20s,"27/10/2019
+15h 15h"
+5,"8
+Kilometers","2305
+meters",00:41:25s,"26/10/2019
+16h 16h"
+6,"8
+Kilometers","2341
+meters",00:47:38s,"26/10/2019
+16h 16h"
+7,"4
+Kilometers","2160
+meters",00:17:48s,"26/10/2019
+15h 16h"
+8,"7
+Kilometers","2279
+meters",00:27:17s,"26/10/2019
+13h 13h"
+9,"4
+Kilometers","2156
+meters",00:16:00s,"26/10/2019
+13h 13h"
+10,"9
+Kilometers","2363
+meters",00:27:51s,"26/10/2019
+13h 13h"
+11,"9
+Kilometers","2337
+meters",00:26:09s,"26/10/2019
+13h 13h"
+12,"6
+Kilometers","2162
+meters",00:18:02s,"26/10/2019
+12h 13h"
+13,"7
+Kilometers","2169
+meters",00:21:58s,"26/10/2019
+11h 11h"
+14,"4
+Kilometers","2175
+meters",00:34:04s,"26/10/2019
+11h 11h"
+15,"5
+Kilometers","2163
+meters",00:15:32s,"26/10/2019
+11h 11h"
+16,"4
+Kilometers","2080
+meters",00:15:25s,"26/10/2019
+11h 11h"
+17,"3
+Kilometers","2181
+meters",00:14:51s,"13/10/2019
+15h 16h"
+18,"4
+Kilometers","2158
+meters",00:20:30s,"13/10/2019
+14h 14h"
+19,"3
+Kilometers","2161
+meters",00:10:20s,"13/10/2019
+12h 12h"
+0,"3
+Kilometers","2165
+meters",00:09:12s,"13/10/2019
+10h 10h"
+1,"3
+Kilometers","2156
+meters",00:10:20s,"12/10/2019
+16h 16h"
+2,"3
+Kilometers","2164
+meters",00:09:46s,"12/10/2019
+15h 15h"
+3,"4
+Kilometers","2238
+meters",00:21:04s,"12/10/2019
+13h 14h"
+4,"3
+Kilometers","2162
+meters",00:09:12s,"12/10/2019
+12h 12h"
+5,"4
+Kilometers","2161
+meters",00:11:28s,"12/10/2019
+10h 10h"
+6,"5
+Kilometers","2345
+meters",00:31:48s,"11/10/2019
+15h 16h"
+7,"4
+Kilometers","2218
+meters",00:18:48s,"11/10/2019
+13h 13h"
+8,"5
+Kilometers","2163
+meters",00:15:59s,"06/10/2019
+14h 15h"
+9,"3
+Kilometers","2151
+meters",00:12:02s,"06/10/2019
+14h 14h"
+10,"9
+Kilometers","2382
+meters",00:39:09s,"06/10/2019
+12h 13h"
+11,"8
+Kilometers","2293
+meters",00:41:25s,"06/10/2019
+12h 13h"
+12,"5
+Kilometers","2245
+meters",00:31:48s,"06/10/2019
+12h 13h"
+13,"8
+Kilometers","2163
+meters",00:24:01s,"21/09/2019
+13h 13h"
+14,"8
+Kilometers","2154
+meters",00:22:46s,"21/09/2019
+13h 13h"
+15,"6
+Kilometers","2199
+meters",00:17:22s,"20/09/2019
+17h 17h"
+16,"7
+Kilometers","2244
+meters",00:21:38s,"20/09/2019
+16h 16h"
+17,"8
+Kilometers","2635
+meters",00:40:42s,"20/09/2019
+14h 15h"
+18,"8
+Kilometers","2608
+meters",00:38:17s,"20/09/2019
+14h 15h"
+19,"4
+Kilometers","2447
+meters",00:26:45s,"20/09/2019
+14h 14h"
+0,"7
+Kilometers","2146
+meters",00:17:41s,"20/09/2019
+13h 14h"
+1,"6
+Kilometers","1982
+meters",00:15:59s,"20/09/2019
+11h 12h"
+2,"8
+Kilometers","2154
+meters",00:17:41s,"19/09/2019
+17h 17h"
+3,"7
+Kilometers","2160
+meters",00:13:10s,"18/09/2019
+16h 16h"
+4,"0
+Kilometers","2143
+meters",00:00:43s,"18/09/2019
+13h 13h"
+5,"2
+Kilometers","1888
+meters",00:04:41s,"18/09/2019
+10h 11h"
+6,"8
+Kilometers","2385
+meters",00:30:07s,"17/09/2019
+16h 16h"
+7,"14
+Kilometers","2962
+meters",00:35:12s,"17/09/2019
+12h 13h"
+8,"12
+Kilometers","2347
+meters",00:53:17s,"17/09/2019
+12h 12h"
+9,"4
+Kilometers","2161
+meters",00:23:11s,"16/09/2019
+13h 14h"
+10,"7
+Kilometers","2553
+meters",00:59:09s,"16/09/2019
+13h 14h"
+11,"16
+Kilometers","2707
+meters",01:48:06s,"16/09/2019
+13h 15h"
+12,"16
+Kilometers","2717
+meters",00:56:06s,"16/09/2019
+13h 14h"
+13,"8
+Kilometers","2328
+meters",00:44:14s,"16/09/2019
+12h 13h"
+14,"6
+Kilometers","2160
+meters",00:21:38s,"16/09/2019
+12h 12h"
+15,"4
+Kilometers","2164
+meters",00:16:47s,"16/09/2019
+11h 12h"
+16,"5
+Kilometers","2160
+meters",00:19:23s,"16/09/2019
+11h 12h"
+17,"5
+Kilometers","2158
+meters",00:19:56s,"16/09/2019
+11h 12h"
+18,"5
+Kilometers","2178
+meters",00:15:02s,"16/09/2019
+11h 11h"
+19,"5
+Kilometers","2163
+meters",00:22:12s,"15/09/2019
+17h 18h"
+0,"6
+Kilometers","2396
+meters",00:39:09s,"15/09/2019
+17h 17h"
+1,"4
+Kilometers","2161
+meters",00:23:20s,"15/09/2019
+16h 16h"
+2,"8
+Kilometers","2592
+meters",00:42:33s,"15/09/2019
+15h 15h"
+3,"8
+Kilometers","2624
+meters",00:46:43s,"15/09/2019
+15h 16h"
+4,"12
+Kilometers","2782
+meters",00:41:59s,"15/09/2019
+15h 15h"
+5,"7
+Kilometers","2548
+meters",00:31:48s,"15/09/2019
+14h 15h"
+6,"4
+Kilometers","2157
+meters",00:25:37s,"15/09/2019
+13h 14h"
+7,"7
+Kilometers","2425
+meters",00:38:01s,"15/09/2019
+13h 13h"
+8,"4
+Kilometers","2159
+meters",00:25:48s,"15/09/2019
+13h 13h"
+9,"9
+Kilometers","2278
+meters",00:33:31s,"15/09/2019
+13h 13h"
+10,"3
+Kilometers","2164
+meters",00:10:20s,"15/09/2019
+11h 11h"
+11,"6
+Kilometers","2156
+meters",00:17:07s,"15/09/2019
+11h 11h"
+12,"6
+Kilometers","2158
+meters",00:14:48s,"15/09/2019
+11h 11h"
+13,"9
+Kilometers","2708
+meters",01:45:50s,"14/09/2019
+16h 18h"
+14,"5
+Kilometers","2710
+meters",00:20:30s,"14/09/2019
+15h 16h"
+15,"15
+Kilometers","2933
+meters",01:16:27s,"14/09/2019
+14h 15h"
+16,"3
+Kilometers","2169
+meters",00:17:07s,"14/09/2019
+14h 14h"
+17,"7
+Kilometers","2218
+meters",00:25:04s,"14/09/2019
+13h 14h"
+18,"4
+Kilometers","2314
+meters",00:27:51s,"14/09/2019
+13h 13h"
+19,"3
+Kilometers","2162
+meters",00:09:12s,"14/09/2019
+13h 13h"
+0,"3
+Kilometers","2153
+meters",00:08:38s,"14/09/2019
+11h 11h"
+1,"3
+Kilometers","2154
+meters",00:09:46s,"14/09/2019
+11h 11h"
+2,"3
+Kilometers","2159
+meters",00:08:38s,"14/09/2019
+10h 10h"
+3,"7
+Kilometers","2600
+meters",01:44:42s,"13/09/2019
+16h 18h"
+4,"8
+Kilometers","2376
+meters",00:39:43s,"13/09/2019
+15h 16h"
+5,"3
+Kilometers","2160
+meters",00:25:37s,"13/09/2019
+14h 14h"
+6,"4
+Kilometers","2290
+meters",00:38:37s,"13/09/2019
+14h 14h"
+7,"3
+Kilometers","2150
+meters",00:16:33s,"13/09/2019
+12h 12h"
+8,"3
+Kilometers","2103
+meters",00:12:37s,"13/09/2019
+10h 10h"
+9,"5
+Kilometers","2205
+meters",00:25:02s,"12/09/2019
+18h 18h"
+10,"4
+Kilometers","2167
+meters",00:15:22s,"12/09/2019
+17h 17h"
+11,"12
+Kilometers","3279
+meters",00:51:35s,"12/09/2019
+16h 17h"
+12,"6
+Kilometers","2161
+meters",00:26:43s,"12/09/2019
+15h 16h"
+13,"7
+Kilometers","2616
+meters",00:43:40s,"12/09/2019
+15h 16h"
+14,"6
+Kilometers","2161
+meters",00:18:48s,"12/09/2019
+13h 14h"
+15,"3
+Kilometers","2162
+meters",00:19:56s,"12/09/2019
+12h 13h"
+16,"3
+Kilometers","2160
+meters",00:13:10s,"12/09/2019
+12h 12h"
+17,"5
+Kilometers","2152
+meters",00:14:51s,"12/09/2019
+11h 11h"
+18,"3
+Kilometers","2155
+meters",00:17:07s,"11/09/2019
+16h 16h"
+19,"9
+Kilometers","2447
+meters",00:42:33s,"11/09/2019
+14h 14h"
+0,"5
+Kilometers","2159
+meters",00:20:30s,"11/09/2019
+12h 12h"
+1,"3
+Kilometers","2157
+meters",00:12:02s,"09/09/2019
+18h 18h"
+2,"5
+Kilometers","2163
+meters",00:17:07s,"09/09/2019
+16h 16h"
+3,"4
+Kilometers","2390
+meters",00:29:33s,"09/09/2019
+12h 13h"
+4,"4
+Kilometers","2169
+meters",00:18:15s,"09/09/2019
+10h 11h"
+5,"4
+Kilometers","2363
+meters",00:19:23s,"07/09/2019
+14h 15h"
+6,"5
+Kilometers","2161
+meters",00:21:38s,"07/09/2019
+13h 13h"
+7,"5
+Kilometers","2164
+meters",00:14:17s,"05/09/2019
+10h 11h"
+8,"10
+Kilometers","2409
+meters",00:37:28s,"04/09/2019
+17h 17h"
+9,"8
+Kilometers","2169
+meters",00:27:51s,"04/09/2019
+16h 17h"
+10,"13
+Kilometers","2544
+meters",01:22:06s,"04/09/2019
+15h 16h"
+11,"6
+Kilometers","2160
+meters",00:34:38s,"04/09/2019
+16h 16h"
+12,"5
+Kilometers","2162
+meters",00:17:39s,"04/09/2019
+15h 16h"
+13,"6
+Kilometers","2138
+meters",00:23:21s,"04/09/2019
+14h 14h"
+14,"11
+Kilometers","2167
+meters",01:06:53s,"04/09/2019
+14h 15h"
+15,"5
+Kilometers","2161
+meters",00:15:59s,"04/09/2019
+14h 14h"
+16,"4
+Kilometers","2165
+meters",00:21:01s,"04/09/2019
+14h 14h"
+17,"4
+Kilometers","2158
+meters",00:24:28s,"04/09/2019
+14h 14h"
+18,"3
+Kilometers","2175
+meters",00:12:22s,"04/09/2019
+12h 12h"
+19,"3
+Kilometers","2158
+meters",00:09:46s,"04/09/2019
+11h 11h"
+0,"5
+Kilometers","2156
+meters",00:14:17s,"03/09/2019
+20h 20h"
+1,"1
+Kilometers","2261
+meters",00:24:28s,"03/09/2019
+15h 15h"
+2,"9
+Kilometers","2158
+meters",00:45:56s,"03/09/2019
+15h 16h"
+3,"10
+Kilometers","2453
+meters",00:41:33s,"01/09/2019
+14h 15h"
+4,"4
+Kilometers","2546
+meters",00:15:59s,"31/08/2019
+15h 15h"
+5,"13
+Kilometers","2902
+meters",00:48:46s,"31/08/2019
+14h 15h"
+6,"4
+Kilometers","2189
+meters",00:13:10s,"31/08/2019
+13h 14h"
+7,"3
+Kilometers","2173
+meters",00:08:04s,"31/08/2019
+12h 12h"
+8,"4
+Kilometers","2162
+meters",00:35:46s,"31/08/2019
+12h 12h"
+9,"3
+Kilometers","2162
+meters",00:08:04s,"31/08/2019
+11h 11h"
+10,"4
+Kilometers","2159
+meters",00:13:43s,"31/08/2019
+10h 11h"
+11,"3
+Kilometers","2161
+meters",00:08:04s,"31/08/2019
+10h 10h"
+12,"9
+Kilometers","2318
+meters",00:35:12s,"27/08/2019
+13h 14h"
+13,"4
+Kilometers","2163
+meters",00:15:25s,"27/08/2019
+12h 12h"
+14,"4
+Kilometers","2153
+meters",00:15:25s,"27/08/2019
+11h 11h"
+15,"8
+Kilometers","2566
+meters",00:46:19s,"26/08/2019
+16h 17h"
+16,"14
+Kilometers","2887
+meters",01:00:07s,"26/08/2019
+14h 15h"
+17,"21
+Kilometers","3588
+meters",01:48:40s,"26/08/2019
+15h 16h"
+18,"18
+Kilometers","2821
+meters",01:17:43s,"26/08/2019
+14h 16h"
+19,"9
+Kilometers","2387
+meters",00:35:46s,"26/08/2019
+13h 14h"
+0,"7
+Kilometers","2412
+meters",01:12:37s,"26/08/2019
+12h 13h"
+1,"7
+Kilometers","2158
+meters",00:30:21s,"26/08/2019
+10h 11h"
+2,"4
+Kilometers","2161
+meters",00:26:09s,"26/08/2019
+11h 11h"
+3,"11
+Kilometers","2645
+meters",01:10:48s,"25/08/2019
+16h 17h"
+4,"11
+Kilometers","2765
+meters",00:48:12s,"25/08/2019
+17h 18h"
+5,"25
+Kilometers","2905
+meters",01:49:48s,"25/08/2019
+17h 18h"
+6,"16
+Kilometers","3050
+meters",01:09:06s,"25/08/2019
+14h 15h"
+7,"25
+Kilometers","3568
+meters",01:43:06s,"25/08/2019
+12h 14h"
+8,"3
+Kilometers","2155
+meters",00:09:12s,"25/08/2019
+13h 13h"
+9,"3
+Kilometers","2164
+meters",00:09:12s,"25/08/2019
+11h 11h"
+10,"3
+Kilometers","2167
+meters",00:09:12s,"25/08/2019
+10h 10h"
+11,"10
+Kilometers","2909
+meters",00:46:30s,"24/08/2019
+13h 13h"
+12,"5
+Kilometers","2146
+meters",00:25:20s,"24/08/2019
+10h 11h"
+13,"19
+Kilometers","2573
+meters",01:04:15s,"23/08/2019
+15h 16h"
+14,"21
+Kilometers","3287
+meters",01:42:27s,"23/08/2019
+13h 15h"
+15,"10
+Kilometers","2435
+meters",00:45:56s,"22/08/2019
+14h 15h"
+16,"4
+Kilometers","2505
+meters",00:19:56s,"22/08/2019
+14h 15h"
+17,"4
+Kilometers","2161
+meters",00:11:28s,"22/08/2019
+13h 13h"
+18,"3
+Kilometers","2161
+meters",00:10:20s,"22/08/2019
+10h 11h"
+19,"4
+Kilometers","2165
+meters",00:10:54s,"21/08/2019
+19h 19h"
+0,"7
+Kilometers","2172
+meters",00:27:47s,"21/08/2019
+16h 17h"
+1,"5
+Kilometers","2157
+meters",00:31:48s,"21/08/2019
+15h 16h"
+2,"5
+Kilometers","2161
+meters",00:25:02s,"21/08/2019
+15h 16h"
+3,"6
+Kilometers","2160
+meters",00:18:15s,"18/08/2019
+11h 12h"
+4,"3
+Kilometers","2162
+meters",00:09:46s,"16/08/2019
+18h 18h"
+5,"6
+Kilometers","2166
+meters",00:16:39s,"16/08/2019
+17h 18h"
+6,"5
+Kilometers","2345
+meters",00:32:56s,"16/08/2019
+16h 16h"
+7,"12
+Kilometers","2354
+meters",01:07:25s,"16/08/2019
+16h 17h"
+8,"7
+Kilometers","2166
+meters",00:23:00s,"16/08/2019
+16h 16h"
+9,"10
+Kilometers","2326
+meters",00:42:33s,"16/08/2019
+14h 15h"
+10,"5
+Kilometers","2159
+meters",00:27:17s,"16/08/2019
+14h 14h"
+11,"5
+Kilometers","2128
+meters",00:21:38s,"16/08/2019
+13h 13h"
+12,"6
+Kilometers","2150
+meters",00:50:28s,"16/08/2019
+11h 12h"
+13,"4
+Kilometers","2165
+meters",00:22:12s,"16/08/2019
+11h 11h"
+14,"0
+Kilometers","875
+meters",00:04:22s,"15/08/2019
+12h 12h"
+15,"8
+Kilometers","2162
+meters",00:29:33s,"15/08/2019
+11h 12h"
+16,"6
+Kilometers","2165
+meters",00:16:33s,"14/08/2019
+19h 19h"
+17,"7
+Kilometers","2638
+meters",00:58:22s,"14/08/2019
+17h 18h"
+18,"7
+Kilometers","2174
+meters",00:42:11s,"14/08/2019
+17h 18h"
+19,"14
+Kilometers","2679
+meters",01:54:53s,"14/08/2019
+16h 18h"
+0,"18
+Kilometers","2866
+meters",01:24:56s,"14/08/2019
+16h 18h"
+1,"26
+Kilometers","3287
+meters",03:20:13s,"14/08/2019
+15h 19h"
+2,"7
+Kilometers","2436
+meters",00:36:21s,"14/08/2019
+15h 16h"
+3,"6
+Kilometers","2882
+meters",01:31:09s,"14/08/2019
+14h 15h"
+4,"5
+Kilometers","2429
+meters",01:10:33s,"14/08/2019
+13h 14h"
+5,"4
+Kilometers","2144
+meters",00:47:46s,"14/08/2019
+10h 11h"
+6,"6
+Kilometers","2158
+meters",00:15:59s,"14/08/2019
+10h 10h"
+7,"5
+Kilometers","2163
+meters",00:15:10s,"14/08/2019
+10h 10h"
+8,"10
+Kilometers","2161
+meters",00:51:01s,"13/08/2019
+18h 18h"
+9,"8
+Kilometers","2222
+meters",00:43:07s,"13/08/2019
+17h 18h"
+10,"3
+Kilometers","2174
+meters",00:09:46s,"13/08/2019
+17h 17h"
+11,"14
+Kilometers","2341
+meters",01:09:06s,"13/08/2019
+15h 16h"
+12,"7
+Kilometers","2281
+meters",00:47:14s,"13/08/2019
+15h 16h"
+13,"6
+Kilometers","2318
+meters",00:31:15s,"13/08/2019
+15h 15h"
+14,"5
+Kilometers","2164
+meters",00:15:59s,"13/08/2019
+12h 12h"
+15,"6
+Kilometers","2166
+meters",00:22:46s,"13/08/2019
+11h 11h"
+16,"5
+Kilometers","2162
+meters",00:20:53s,"13/08/2019
+11h 11h"
+17,"6
+Kilometers","2160
+meters",00:19:56s,"11/08/2019
+11h 11h"
+18,"5
+Kilometers","2162
+meters",00:27:10s,"11/08/2019
+11h 11h"
+19,"5
+Kilometers","2164
+meters",00:14:17s,"11/08/2019
+11h 11h"
+0,"18
+Kilometers","2866
+meters",01:24:56s,"14/08/2019
+16h 18h"
+1,"26
+Kilometers","3287
+meters",03:20:13s,"14/08/2019
+15h 19h"
+2,"7
+Kilometers","2436
+meters",00:36:21s,"14/08/2019
+15h 16h"
+3,"6
+Kilometers","2882
+meters",01:31:09s,"14/08/2019
+14h 15h"
+4,"5
+Kilometers","2429
+meters",01:10:33s,"14/08/2019
+13h 14h"
+5,"4
+Kilometers","2144
+meters",00:47:46s,"14/08/2019
+10h 11h"
+6,"6
+Kilometers","2158
+meters",00:15:59s,"14/08/2019
+10h 10h"
+7,"5
+Kilometers","2163
+meters",00:15:10s,"14/08/2019
+10h 10h"
+8,"10
+Kilometers","2161
+meters",00:51:01s,"13/08/2019
+18h 18h"
+9,"8
+Kilometers","2222
+meters",00:43:07s,"13/08/2019
+17h 18h"
+10,"3
+Kilometers","2174
+meters",00:09:46s,"13/08/2019
+17h 17h"
+11,"14
+Kilometers","2341
+meters",01:09:06s,"13/08/2019
+15h 16h"
+12,"7
+Kilometers","2281
+meters",00:47:14s,"13/08/2019
+15h 16h"
+13,"6
+Kilometers","2318
+meters",00:31:15s,"13/08/2019
+15h 15h"
+14,"5
+Kilometers","2164
+meters",00:15:59s,"13/08/2019
+12h 12h"
+15,"6
+Kilometers","2166
+meters",00:22:46s,"13/08/2019
+11h 11h"
+16,"5
+Kilometers","2162
+meters",00:20:53s,"13/08/2019
+11h 11h"
+17,"6
+Kilometers","2160
+meters",00:19:56s,"11/08/2019
+11h 11h"
+18,"5
+Kilometers","2162
+meters",00:27:10s,"11/08/2019
+11h 11h"
+19,"5
+Kilometers","2164
+meters",00:14:17s,"11/08/2019
+11h 11h"
+0,"6
+Kilometers","2160
+meters",00:21:04s,"11/08/2019
+10h 10h"
+1,"5
+Kilometers","2318
+meters",00:23:20s,"09/08/2019
+14h 15h"
+2,"5
+Kilometers","2169
+meters",00:21:38s,"09/08/2019
+12h 12h"
+3,"3
+Kilometers","2165
+meters",00:08:04s,"09/08/2019
+12h 12h"
+4,"6
+Kilometers","2163
+meters",00:23:20s,"08/08/2019
+18h 18h"
+5,"7
+Kilometers","2180
+meters",00:35:46s,"08/08/2019
+17h 18h"
+6,"10
+Kilometers","2714
+meters",00:52:27s,"08/08/2019
+17h 18h"
+7,"10
+Kilometers","2936
+meters",01:07:58s,"08/08/2019
+14h 16h"
+8,"3
+Kilometers","2134
+meters",00:11:28s,"06/08/2019
+11h 11h"
+9,"3
+Kilometers","2150
+meters",00:09:35s,"05/08/2019
+13h 13h"
+10,"5
+Kilometers","2146
+meters",00:16:46s,"04/08/2019
+21h 21h"
+11,"3
+Kilometers","2141
+meters",00:09:22s,"04/08/2019
+19h 19h"
+12,"4
+Kilometers","2441
+meters",00:16:51s,"04/08/2019
+17h 17h"
+13,"11
+Kilometers","2262
+meters",00:47:14s,"04/08/2019
+17h 18h"
+14,"9
+Kilometers","2158
+meters",01:02:53s,"04/08/2019
+17h 18h"
+15,"8
+Kilometers","2454
+meters",00:28:59s,"04/08/2019
+17h 17h"
+16,"6
+Kilometers","2145
+meters",00:17:07s,"04/08/2019
+17h 17h"
+17,"4
+Kilometers","2216
+meters",00:11:49s,"04/08/2019
+15h 15h"
+18,"9
+Kilometers","2864
+meters",00:45:56s,"04/08/2019
+15h 16h"
+19,"4
+Kilometers","2503
+meters",00:30:37s,"04/08/2019
+14h 15h"
+0,"6
+Kilometers","2254
+meters",00:28:59s,"04/08/2019
+14h 15h"
+1,"6
+Kilometers","2297
+meters",00:31:48s,"04/08/2019
+14h 14h"
+2,"3
+Kilometers","2162
+meters",00:13:10s,"04/08/2019
+14h 14h"
+3,"4
+Kilometers","2205
+meters",00:17:41s,"04/08/2019
+13h 13h"
+4,"4
+Kilometers","2160
+meters",00:13:15s,"04/08/2019
+12h 12h"
+5,"4
+Kilometers","2154
+meters",00:14:17s,"04/08/2019
+11h 11h"
+6,"6
+Kilometers","2389
+meters",00:28:51s,"03/08/2019
+18h 19h"
+7,"10
+Kilometers","2316
+meters",01:27:45s,"03/08/2019
+17h 19h"
+8,"11
+Kilometers","2727
+meters",00:52:12s,"03/08/2019
+17h 18h"
+9,"23
+Kilometers","3364
+meters",02:04:47s,"03/08/2019
+14h 16h"
+10,"21
+Kilometers","3301
+meters",02:24:16s,"03/08/2019
+14h 16h"
+11,"27
+Kilometers","3293
+meters",02:19:22s,"03/08/2019
+13h 16h"
+12,"3
+Kilometers","2640
+meters",00:36:57s,"03/08/2019
+12h 12h"
+13,"7
+Kilometers","2295
+meters",00:23:54s,"03/08/2019
+11h 12h"
+14,"5
+Kilometers","2399
+meters",00:21:03s,"03/08/2019
+11h 11h"
+15,"3
+Kilometers","2166
+meters",00:09:20s,"02/08/2019
+13h 13h"
+16,"4
+Kilometers","2160
+meters",00:10:20s,"02/08/2019
+13h 13h"
+17,"3
+Kilometers","2156
+meters",00:09:46s,"02/08/2019
+13h 13h"
+18,"3
+Kilometers","2163
+meters",00:07:59s,"02/08/2019
+13h 13h"
+19,"9
+Kilometers","2572
+meters",00:46:30s,"01/08/2019
+14h 15h"
+0,"10
+Kilometers","2133
+meters",00:44:34s,"01/08/2019
+14h 15h"
+1,"4
+Kilometers","2134
+meters",00:27:17s,"01/08/2019
+13h 13h"
+2,"5
+Kilometers","2157
+meters",00:25:12s,"01/08/2019
+11h 12h"
+3,"7
+Kilometers","2126
+meters",00:18:28s,"01/08/2019
+12h 12h"
+4,"5
+Kilometers","2157
+meters",00:18:10s,"31/07/2019
+14h 14h"
+5,"4
+Kilometers","2178
+meters",00:18:10s,"30/07/2019
+14h 15h"
+6,"4
+Kilometers","2160
+meters",00:13:24s,"30/07/2019
+11h 11h"
+7,"8
+Kilometers","2494
+meters",00:48:46s,"26/07/2019
+12h 13h"
+8,"6
+Kilometers","2128
+meters",00:14:51s,"25/07/2019
+11h 11h"
+9,"5
+Kilometers","2248
+meters",00:17:41s,"24/07/2019
+17h 17h"
+10,"35
+Kilometers","4219
+meters",01:39:29s,"24/07/2019
+15h 16h"
+11,"17
+Kilometers","3631
+meters",01:07:25s,"24/07/2019
+14h 15h"
+12,"21
+Kilometers","3497
+meters",01:28:53s,"24/07/2019
+14h 16h"
+13,"6
+Kilometers","2145
+meters",00:17:41s,"24/07/2019
+12h 12h"
+14,"6
+Kilometers","2812
+meters",00:19:23s,"23/07/2019
+17h 18h"
+15,"1
+Kilometers","3086
+meters",00:09:46s,"23/07/2019
+17h 17h"
+16,"14
+Kilometers","2984
+meters",01:02:53s,"23/07/2019
+14h 15h"
+17,"6
+Kilometers","2146
+meters",00:17:07s,"23/07/2019
+12h 12h"
+18,"6
+Kilometers","2138
+meters",00:15:25s,"23/07/2019
+10h 10h"
+19,"4
+Kilometers","2186
+meters",00:17:41s,"22/07/2019
+16h 17h"
+0,"4
+Kilometers","2159
+meters",00:16:33s,"22/07/2019
+16h 17h"
+1,"16
+Kilometers","2783
+meters",00:51:35s,"21/07/2019
+16h 17h"
+2,"7
+Kilometers","2663
+meters",00:45:38s,"21/07/2019
+16h 17h"
+3,"5
+Kilometers","2283
+meters",00:35:46s,"21/07/2019
+14h 15h"
+4,"6
+Kilometers","2381
+meters",00:45:20s,"21/07/2019
+14h 15h"
+5,"3
+Kilometers","2153
+meters",00:08:22s,"21/07/2019
+10h 10h"
+6,"4
+Kilometers","2161
+meters",00:14:51s,"20/07/2019
+15h 15h"
+7,"4
+Kilometers","2163
+meters",00:26:19s,"20/07/2019
+12h 13h"
+8,"4
+Kilometers","2134
+meters",00:20:30s,"20/07/2019
+12h 13h"
+9,"6
+Kilometers","2153
+meters",00:19:56s,"20/07/2019
+12h 12h"
+10,"5
+Kilometers","2141
+meters",00:17:25s,"20/07/2019
+12h 12h"
+11,"20
+Kilometers","2637
+meters",02:11:38s,"20/07/2019
+10h 13h"
+12,"14
+Kilometers","3023
+meters",01:30:01s,"19/07/2019
+17h 19h"
+13,"6
+Kilometers","2126
+meters",00:19:56s,"19/07/2019
+12h 13h"
+14,"4
+Kilometers","2488
+meters",00:17:40s,"18/07/2019
+17h 17h"
+15,"4
+Kilometers","2606
+meters",00:16:39s,"18/07/2019
+14h 14h"
+16,"12
+Kilometers","2952
+meters",01:34:32s,"18/07/2019
+13h 15h"
+17,"6
+Kilometers","2354
+meters",00:21:04s,"18/07/2019
+13h 14h"
+18,"10
+Kilometers","3246
+meters",00:51:08s,"18/07/2019
+12h 13h"
+19,"2
+Kilometers","2474
+meters",00:11:09s,"18/07/2019
+11h 11h"
+0,"6
+Kilometers","2154
+meters",00:16:33s,"18/07/2019
+10h 10h"
+1,"14
+Kilometers","2708
+meters",01:56:10s,"17/07/2019
+17h 18h"
+2,"2
+Kilometers","2603
+meters",00:14:39s,"17/07/2019
+14h 14h"
+3,"2
+Kilometers","2647
+meters",00:14:38s,"17/07/2019
+13h 13h"
+4,"6
+Kilometers","2191
+meters",00:20:30s,"17/07/2019
+13h 13h"
+5,"3
+Kilometers","2149
+meters",00:10:24s,"17/07/2019
+11h 11h"
+6,"5
+Kilometers","2153
+meters",00:14:51s,"17/07/2019
+10h 10h"
+7,"6
+Kilometers","2877
+meters",00:32:22s,"16/07/2019
+17h 18h"
+8,"5
+Kilometers","2184
+meters",00:18:48s,"16/07/2019
+15h 16h"
+9,"12
+Kilometers","2840
+meters",01:15:21s,"16/07/2019
+15h 16h"
+10,"5
+Kilometers","2312
+meters",00:25:02s,"16/07/2019
+15h 15h"
+11,"21
+Kilometers","2769
+meters",02:19:45s,"16/07/2019
+13h 15h"
+12,"9
+Kilometers","2384
+meters",00:38:03s,"16/07/2019
+13h 14h"
+13,"6
+Kilometers","2170
+meters",00:19:56s,"16/07/2019
+12h 13h"
+14,"4
+Kilometers","2459
+meters",00:32:28s,"16/07/2019
+12h 13h"
+15,"5
+Kilometers","2149
+meters",00:15:25s,"16/07/2019
+10h 11h"
+16,"6
+Kilometers","2151
+meters",00:26:09s,"16/07/2019
+10h 11h"
+17,"3
+Kilometers","2156
+meters",00:09:00s,"15/07/2019
+17h 17h"
+18,"6
+Kilometers","2158
+meters",00:19:23s,"15/07/2019
+16h 16h"
+19,"4
+Kilometers","2217
+meters",00:32:29s,"15/07/2019
+14h 15h"
+0,"4
+Kilometers","2159
+meters",00:14:17s,"15/07/2019
+13h 14h"
+1,"3
+Kilometers","2158
+meters",00:11:17s,"15/07/2019
+12h 12h"
+2,"5
+Kilometers","2156
+meters",00:15:25s,"15/07/2019
+12h 12h"
+3,"14
+Kilometers","2388
+meters",00:57:37s,"14/07/2019
+16h 17h"
+4,"7
+Kilometers","2480
+meters",00:54:51s,"14/07/2019
+15h 15h"
+5,"11
+Kilometers","2712
+meters",01:00:01s,"14/07/2019
+13h 14h"
+6,"14
+Kilometers","2615
+meters",00:59:19s,"14/07/2019
+13h 14h"
+7,"11
+Kilometers","2423
+meters",01:53:45s,"14/07/2019
+12h 14h"
+8,"7
+Kilometers","2158
+meters",00:14:47s,"14/07/2019
+12h 12h"
+9,"19
+Kilometers","2629
+meters",02:42:03s,"14/07/2019
+11h 14h"
+10,"4
+Kilometers","2148
+meters",00:15:22s,"14/07/2019
+11h 12h"
+11,"4
+Kilometers","2108
+meters",00:16:33s,"14/07/2019
+10h 11h"
+12,"6
+Kilometers","2155
+meters",00:15:38s,"14/07/2019
+10h 10h"
+13,"11
+Kilometers","2546
+meters",01:35:53s,"13/07/2019
+18h 19h"
+14,"8
+Kilometers","2159
+meters",00:35:42s,"13/07/2019
+13h 13h"
+15,"8
+Kilometers","2136
+meters",01:30:01s,"13/07/2019
+12h 14h"
+16,"10
+Kilometers","2239
+meters",00:40:52s,"13/07/2019
+12h 12h"
+17,"6
+Kilometers","2142
+meters",00:20:02s,"13/07/2019
+11h 12h"
+18,"4
+Kilometers","2151
+meters",00:10:41s,"13/07/2019
+10h 11h"
+19,"5
+Kilometers","2153
+meters",00:15:25s,"13/07/2019
+10h 10h"
+0,"6
+Kilometers","2268
+meters",00:20:31s,"12/07/2019
+12h 12h"
+1,"9
+Kilometers","2261
+meters",00:41:25s,"12/07/2019
+12h 13h"
+2,"9
+Kilometers","2384
+meters",00:34:28s,"12/07/2019
+11h 12h"
+3,"5
+Kilometers","2138
+meters",00:18:15s,"11/07/2019
+15h 15h"
+4,"8
+Kilometers","2571
+meters",00:39:53s,"10/07/2019
+17h 18h"
+5,"4
+Kilometers","2163
+meters",00:11:42s,"10/07/2019
+17h 17h"
+6,"4
+Kilometers","2174
+meters",00:15:12s,"10/07/2019
+17h 17h"
+7,"6
+Kilometers","2260
+meters",01:26:37s,"10/07/2019
+17h 18h"
+8,"7
+Kilometers","2445
+meters",00:54:30s,"10/07/2019
+16h 16h"
+9,"0
+Kilometers","2163
+meters",00:02:01s,"10/07/2019
+15h 15h"
+10,"13
+Kilometers","2460
+meters",01:14:54s,"10/07/2019
+13h 14h"
+11,"12
+Kilometers","2533
+meters",01:17:44s,"10/07/2019
+13h 14h"
+12,"20
+Kilometers","2716
+meters",03:22:43s,"10/07/2019
+12h 16h"
+13,"8
+Kilometers","2488
+meters",02:01:22s,"10/07/2019
+11h 14h"
+14,"5
+Kilometers","2441
+meters",00:34:22s,"09/07/2019
+13h 14h"
+15,"6
+Kilometers","2385
+meters",00:29:28s,"09/07/2019
+13h 14h"
+16,"8
+Kilometers","2428
+meters",00:49:53s,"09/07/2019
+13h 14h"
+17,"11
+Kilometers","2585
+meters",00:54:48s,"09/07/2019
+12h 13h"
+18,"5
+Kilometers","2140
+meters",00:16:33s,"09/07/2019
+11h 11h"
+19,"7
+Kilometers","2138
+meters",00:20:07s,"08/07/2019
+15h 15h"
+0,"8
+Kilometers","2255
+meters",00:23:35s,"08/07/2019
+13h 14h"
+1,"6
+Kilometers","2246
+meters",00:40:25s,"08/07/2019
+13h 13h"
+2,"7
+Kilometers","2148
+meters",00:24:21s,"08/07/2019
+11h 12h"
+3,"5
+Kilometers","2152
+meters",00:15:37s,"08/07/2019
+11h 11h"
+4,"6
+Kilometers","2422
+meters",00:24:29s,"05/07/2019
+13h 14h"
+5,"24
+Kilometers","3608
+meters",01:24:10s,"05/07/2019
+13h 15h"
+6,"19
+Kilometers","3016
+meters",01:33:04s,"05/07/2019
+13h 14h"
+7,"4
+Kilometers","2157
+meters",00:15:22s,"05/07/2019
+11h 12h"
+8,"7
+Kilometers","2176
+meters",01:10:37s,"04/07/2019
+11h 13h"
+9,"10
+Kilometers","2149
+meters",00:20:05s,"03/07/2019
+13h 13h"
+10,"8
+Kilometers","2128
+meters",00:27:03s,"03/07/2019
+11h 12h"
+11,"8
+Kilometers","2118
+meters",00:22:24s,"02/07/2019
+12h 13h"
+12,"36
+Kilometers","3822
+meters",03:07:56s,"01/07/2019
+13h 16h"
+13,"29
+Kilometers","3839
+meters",02:36:04s,"01/07/2019
+12h 15h"
+14,"21
+Kilometers","3902
+meters",01:40:00s,"30/06/2019
+12h 14h"
+15,"15
+Kilometers","3216
+meters",00:53:15s,"30/06/2019
+13h 14h"
+16,"25
+Kilometers","3860
+meters",02:08:02s,"30/06/2019
+13h 15h"
+17,"31
+Kilometers","4082
+meters",01:54:04s,"30/06/2019
+13h 15h"
+18,"79
+Kilometers","5006
+meters",04:24:37s,"30/06/2019
+13h 17h"
+19,"21
+Kilometers","3599
+meters",01:50:30s,"30/06/2019
+13h 14h"
+0,"16
+Kilometers","3437
+meters",00:53:49s,"30/06/2019
+12h 13h"
+1,"24
+Kilometers","2959
+meters",01:46:33s,"30/06/2019
+10h 12h"
+2,"12
+Kilometers","2809
+meters",01:08:01s,"30/06/2019
+10h 12h"
+3,"24
+Kilometers","3552
+meters",02:20:37s,"29/06/2019
+15h 17h"
+4,"15
+Kilometers","2856
+meters",01:27:51s,"29/06/2019
+15h 16h"
+5,"13
+Kilometers","3356
+meters",01:14:38s,"29/06/2019
+14h 15h"
+6,"61
+Kilometers","4238
+meters",04:25:03s,"29/06/2019
+13h 18h"
+7,"10
+Kilometers","2134
+meters",00:23:54s,"29/06/2019
+13h 13h"
+8,"8
+Kilometers","2810
+meters",01:24:28s,"29/06/2019
+12h 13h"
+9,"31
+Kilometers","3960
+meters",01:41:22s,"27/06/2019
+14h 16h"
+10,"26
+Kilometers","3976
+meters",02:25:45s,"26/06/2019
+15h 17h"
+11,"1
+Kilometers","2308
+meters",00:13:22s,"26/06/2019
+12h 13h"
+12,"13
+Kilometers","2959
+meters",02:18:04s,"23/06/2019
+15h 18h"
+13,"10
+Kilometers","2323
+meters",00:50:02s,"23/06/2019
+14h 14h"
+14,"6
+Kilometers","2155
+meters",00:31:00s,"23/06/2019
+11h 12h"
+15,"22
+Kilometers","2657
+meters",01:54:08s,"16/06/2019
+16h 18h"
+16,"11
+Kilometers","2502
+meters",00:56:53s,"16/06/2019
+15h 16h"
+17,"8
+Kilometers","2497
+meters",00:54:40s,"16/06/2019
+14h 15h"
+18,"15
+Kilometers","2687
+meters",00:53:52s,"16/06/2019
+14h 15h"
+19,"9
+Kilometers","2275
+meters",00:49:48s,"16/06/2019
+13h 14h"
+0,"22
+Kilometers","2474
+meters",02:35:02s,"16/06/2019
+13h 16h"
+1,"4
+Kilometers","2240
+meters",00:25:22s,"16/06/2019
+12h 13h"
+2,"6
+Kilometers","2168
+meters",00:17:02s,"16/06/2019
+11h 12h"
+3,"5
+Kilometers","2173
+meters",00:26:33s,"16/06/2019
+11h 12h"
+4,"3
+Kilometers","2159
+meters",00:16:14s,"15/06/2019
+14h 14h"
+5,"10
+Kilometers","2300
+meters",01:00:45s,"13/06/2019
+16h 17h"
+6,"6
+Kilometers","2173
+meters",01:07:13s,"13/06/2019
+13h 14h"
+7,"11
+Kilometers","2123
+meters",00:51:28s,"13/06/2019
+10h 11h"
+8,"6
+Kilometers","2161
+meters",00:17:05s,"12/06/2019
+18h 18h"
+9,"14
+Kilometers","2336
+meters",01:29:27s,"08/06/2019
+17h 18h"
+10,"15
+Kilometers","2825
+meters",00:58:42s,"08/06/2019
+12h 13h"
+11,"5
+Kilometers","2169
+meters",00:22:11s,"27/05/2019
+14h 14h"
+12,"4
+Kilometers","2173
+meters",00:16:08s,"27/05/2019
+11h 11h"
+13,"4
+Kilometers","2162
+meters",00:16:51s,"20/04/2019
+10h 11h"
+14,"5
+Kilometers","2373
+meters",00:20:48s,"19/04/2019
+16h 16h"
+15,"3
+Kilometers","2312
+meters",00:17:39s,"19/04/2019
+11h 12h"
+16,"3
+Kilometers","2175
+meters",00:18:53s,"19/04/2019
+11h 11h"
+17,"4
+Kilometers","2128
+meters",00:11:48s,"18/04/2019
+10h 11h"
+18,"3
+Kilometers","2514
+meters",00:22:05s,"17/04/2019
+15h 15h"
+19,"4
+Kilometers","2417
+meters",00:29:49s,"17/04/2019
+13h 14h"
+0,"4
+Kilometers","2155
+meters",00:11:59s,"17/04/2019
+11h 12h"
+1,"4
+Kilometers","2180
+meters",00:13:16s,"17/04/2019
+10h 10h"
+2,"3
+Kilometers","2080
+meters",00:09:28s,"16/04/2019
+11h 11h"
+3,"26
+Kilometers","2792
+meters",01:54:56s,"15/04/2019
+12h 14h"
+4,"4
+Kilometers","2643
+meters",00:36:55s,"15/04/2019
+11h 12h"
+5,"3
+Kilometers","2561
+meters",00:20:31s,"13/04/2019
+13h 13h"
+6,"4
+Kilometers","2179
+meters",00:14:07s,"13/04/2019
+10h 11h"
+7,"4
+Kilometers","2196
+meters",00:15:31s,"12/04/2019
+15h 16h"
+8,"4
+Kilometers","2181
+meters",00:09:43s,"12/04/2019
+14h 14h"
+9,"4
+Kilometers","2185
+meters",00:09:47s,"12/04/2019
+13h 13h"
+10,"4
+Kilometers","2175
+meters",00:09:19s,"12/04/2019
+12h 13h"
+11,"4
+Kilometers","2187
+meters",00:10:37s,"12/04/2019
+12h 12h"
+12,"14
+Kilometers","3116
+meters",01:04:03s,"09/04/2019
+15h 16h"
+13,"10
+Kilometers","2638
+meters",00:35:53s,"09/04/2019
+13h 14h"
+14,"5
+Kilometers","2492
+meters",00:40:20s,"31/03/2019
+18h 18h"
+15,"6
+Kilometers","2564
+meters",00:38:35s,"31/03/2019
+16h 17h"
+16,"6
+Kilometers","3020
+meters",01:04:33s,"31/03/2019
+16h 17h"
+17,"4
+Kilometers","2867
+meters",00:21:50s,"31/03/2019
+15h 15h"
+18,"13
+Kilometers","3123
+meters",00:50:10s,"31/03/2019
+14h 15h"
+19,"2
+Kilometers","2703
+meters",00:42:21s,"31/03/2019
+12h 12h"
+0,"4
+Kilometers","2178
+meters",00:13:37s,"31/03/2019
+10h 10h"
+1,"4
+Kilometers","2173
+meters",00:11:27s,"30/03/2019
+17h 18h"
+2,"6
+Kilometers","2457
+meters",00:27:15s,"30/03/2019
+16h 16h"
+3,"5
+Kilometers","2533
+meters",00:42:38s,"30/03/2019
+16h 16h"
+4,"6
+Kilometers","2648
+meters",00:28:23s,"30/03/2019
+14h 15h"
+5,"22
+Kilometers","3025
+meters",01:11:22s,"30/03/2019
+13h 15h"
+6,"24
+Kilometers","3043
+meters",01:35:40s,"30/03/2019
+13h 15h"
+7,"4
+Kilometers","2185
+meters",00:10:50s,"30/03/2019
+13h 13h"
+8,"4
+Kilometers","2182
+meters",00:09:45s,"30/03/2019
+12h 12h"
+9,"9
+Kilometers","2935
+meters",00:38:21s,"29/03/2019
+16h 16h"
+10,"5
+Kilometers","3090
+meters",00:18:42s,"29/03/2019
+14h 14h"
+11,"4
+Kilometers","3095
+meters",00:17:05s,"29/03/2019
+13h 13h"
+12,"6
+Kilometers","2368
+meters",00:30:18s,"28/03/2019
+13h 13h"
+13,"5
+Kilometers","2859
+meters",00:15:39s,"26/03/2019
+17h 18h"
+14,"5
+Kilometers","2469
+meters",00:33:09s,"24/03/2019
+17h 18h"
+15,"15
+Kilometers","2941
+meters",01:22:30s,"24/03/2019
+12h 13h"
+16,"2
+Kilometers","2647
+meters",00:19:11s,"24/03/2019
+12h 13h"
+17,"6
+Kilometers","2179
+meters",00:17:10s,"24/03/2019
+11h 11h"
+18,"5
+Kilometers","2495
+meters",00:31:21s,"23/03/2019
+18h 18h"
+19,"8
+Kilometers","2713
+meters",00:50:09s,"23/03/2019
+17h 17h"
+0,"8
+Kilometers","2733
+meters",00:39:32s,"23/03/2019
+15h 16h"
+1,"20
+Kilometers","2707
+meters",01:45:15s,"23/03/2019
+15h 17h"
+2,"5
+Kilometers","2384
+meters",00:37:04s,"23/03/2019
+15h 15h"
+3,"4
+Kilometers","2177
+meters",00:13:06s,"23/03/2019
+14h 14h"
+4,"11
+Kilometers","2588
+meters",00:46:27s,"23/03/2019
+14h 15h"
+5,"16
+Kilometers","2692
+meters",01:33:26s,"23/03/2019
+14h 16h"
+6,"5
+Kilometers","2551
+meters",00:26:50s,"23/03/2019
+14h 14h"
+7,"11
+Kilometers","2597
+meters",01:24:57s,"23/03/2019
+12h 13h"
+8,"5
+Kilometers","2452
+meters",00:23:30s,"23/03/2019
+12h 12h"
+9,"4
+Kilometers","2209
+meters",00:19:10s,"23/03/2019
+12h 12h"
+10,"4
+Kilometers","2175
+meters",00:19:23s,"23/03/2019
+12h 12h"
+11,"3
+Kilometers","2092
+meters",00:09:30s,"23/03/2019
+11h 11h"
+12,"3
+Kilometers","2179
+meters",00:10:39s,"23/03/2019
+11h 11h"
+13,"12
+Kilometers","2790
+meters",00:43:42s,"22/03/2019
+17h 17h"
+14,"8
+Kilometers","3010
+meters",01:01:02s,"22/03/2019
+13h 14h"
+15,"4
+Kilometers","2491
+meters",00:15:08s,"22/03/2019
+12h 12h"
+16,"12
+Kilometers","2875
+meters",00:54:13s,"21/03/2019
+17h 18h"
+17,"12
+Kilometers","2875
+meters",00:54:13s,"21/03/2019
+16h 17h"
+18,"9
+Kilometers","3011
+meters",00:45:37s,"21/03/2019
+16h 17h"
+19,"15
+Kilometers","3175
+meters",00:47:18s,"21/03/2019
+16h 17h"
+0,"4
+Kilometers","2342
+meters",00:26:37s,"21/03/2019
+13h 14h"
+1,"12
+Kilometers","2897
+meters",00:38:48s,"21/03/2019
+14h 15h"
+2,"8
+Kilometers","2893
+meters",00:49:34s,"21/03/2019
+13h 14h"
+3,"13
+Kilometers","2757
+meters",00:42:56s,"20/03/2019
+16h 17h"
+4,"3
+Kilometers","2158
+meters",00:09:59s,"16/03/2019
+15h 16h"
+5,"4
+Kilometers","2107
+meters",00:11:02s,"16/03/2019
+13h 14h"
+6,"4
+Kilometers","2178
+meters",00:14:54s,"03/03/2019
+18h 18h"
+7,"4
+Kilometers","2172
+meters",00:12:37s,"03/03/2019
+16h 17h"
+8,"4
+Kilometers","2174
+meters",00:14:05s,"03/03/2019
+15h 15h"
+9,"4
+Kilometers","2175
+meters",00:11:18s,"03/03/2019
+12h 13h"
+10,"4
+Kilometers","2335
+meters",00:29:07s,"28/02/2019
+15h 15h"
+11,"2
+Kilometers","2351
+meters",00:11:28s,"28/02/2019
+14h 15h"
+12,"10
+Kilometers","2735
+meters",00:32:30s,"28/02/2019
+14h 14h"
+13,"1
+Kilometers","2383
+meters",00:11:18s,"28/02/2019
+14h 14h"
+14,"4
+Kilometers","2330
+meters",00:21:05s,"28/02/2019
+11h 12h"
+15,"3
+Kilometers","2168
+meters",00:10:04s,"27/02/2019
+17h 17h"
+16,"7
+Kilometers","2501
+meters",01:07:53s,"27/02/2019
+16h 17h"
+17,"4
+Kilometers","2497
+meters",00:30:22s,"27/02/2019
+14h 15h"
+18,"22
+Kilometers","2561
+meters",02:25:22s,"27/02/2019
+14h 17h"
+19,"4
+Kilometers","2513
+meters",01:44:04s,"27/02/2019
+15h 17h"
+0,"10
+Kilometers","2491
+meters",00:41:24s,"27/02/2019
+14h 15h"
+1,"4
+Kilometers","2174
+meters",00:33:58s,"27/02/2019
+14h 14h"
+2,"6
+Kilometers","2463
+meters",02:20:15s,"27/02/2019
+13h 15h"
+3,"4
+Kilometers","2177
+meters",00:31:47s,"27/02/2019
+12h 13h"
+4,"4
+Kilometers","2249
+meters",00:29:35s,"27/02/2019
+12h 13h"
+5,"3
+Kilometers","2176
+meters",00:09:37s,"27/02/2019
+10h 11h"
+6,"9
+Kilometers","2509
+meters",00:43:19s,"26/02/2019
+16h 17h"
+7,"17
+Kilometers","2519
+meters",00:54:53s,"26/02/2019
+16h 17h"
+8,"13
+Kilometers","2610
+meters",01:04:13s,"26/02/2019
+14h 15h"
+9,"18
+Kilometers","2618
+meters",01:53:58s,"26/02/2019
+14h 16h"
+10,"15
+Kilometers","2723
+meters",01:13:12s,"26/02/2019
+13h 14h"
+11,"3
+Kilometers","2175
+meters",00:20:37s,"26/02/2019
+11h 12h"
+12,"5
+Kilometers","2180
+meters",00:18:19s,"25/02/2019
+17h 17h"
+13,"4
+Kilometers","2169
+meters",00:19:48s,"25/02/2019
+17h 17h"
+14,"5
+Kilometers","2472
+meters",00:55:46s,"25/02/2019
+15h 15h"
+15,"3
+Kilometers","2174
+meters",00:17:04s,"25/02/2019
+13h 13h"
+16,"3
+Kilometers","2177
+meters",00:09:37s,"25/02/2019
+11h 11h"
+17,"4
+Kilometers","2178
+meters",00:13:28s,"24/02/2019
+17h 17h"
+18,"4
+Kilometers","2182
+meters",00:13:46s,"24/02/2019
+16h 16h"
+19,"9
+Kilometers","2162
+meters",00:27:38s,"24/02/2019
+16h 16h"
